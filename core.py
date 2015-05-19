@@ -1,7 +1,7 @@
 from bottle import *
 
 from pprint import pprint
-from recsys import recommend
+# from recsys import recommend
 from top_rated import movie_recommender
 import pickle
 import json

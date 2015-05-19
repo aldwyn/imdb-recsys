@@ -18,6 +18,7 @@ def parse_data100():
 			cur.execute("CREATE TABLE movie_actors (movie_id INTEGER, actor TEXT)")
 			cur.execute("CREATE TABLE movie_genres (movie_id INTEGER, genre TEXT)")
 			cur.execute("CREATE TABLE users (user_id INTEGER PRIMARY KEY, name TEXT)")
+			cur.execute("CREATE TABLE user_preferences (user_id INTEGER, genre TEXT)")
 			cur.execute("CREATE TABLE ratings (user_id INTEGER, movie_id INTEGER, ratings REAL)")
 		except:
 			pass
