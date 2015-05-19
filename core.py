@@ -1,15 +1,179 @@
 from bottle import *
-
 from pprint import pprint
-# from recsys import recommend
-from top_rated import movie_recommender
+from recsys.algorithm.factorize import SVD
+from recsys.datamodel.data import Data
 import pickle
 import json
 import sqlite3
 
+
 @route('/')
 def index():
-	return static_file('index.html', root='static/')
+	movielist = {}
+	with sqlite3.connect('data/data100.db') as con:
+		cur = con.cursor()
+		cur.execute("SELECT * FROM movies")
+		movies = cur.fetchall()
+		for m in movies:
+			cur.execute("SELECT AVG(ratings) FROM ratings WHERE movie_id = ?", (m[0],))
+			avg = cur.fetchone()[0]
+			movielist[avg] = {
+				'mid': m[0],
+				'title': m[1],
+				'description': m[2],
+				'image': m[3],
+				'year': m[4]
+			}
+	session_user = request.get_cookie('session_user') if 'session_user' in request.cookies else None
+	return template('static/index.html', movielist=movielist, session_user=session_user)
+
+
+@route('/feeds')
+def get_feeds():
+	movielist = {}
+	with sqlite3.connect('data/data100.db') as con:
+		cur = con.cursor()
+		cur.execute("SELECT * FROM ratings")
+		rating_results = cur.fetchall()
+		with open('data/tmp.dat', 'a') as f:
+			for l in rating_results:
+				f.write('%s,%s,%s\n' % (l[0], l[1], l[2]))
+		svd = SVD()
+		svd.load_data(filename='data/tmp.dat', sep=',', format={'col': 0, 'row': 1, 'value': 2, 'ids':int})
+		recommendations = [str(s[0]) for s in svd.recommend(request.get_cookie('session_user')[0], is_row=False)]
+		cur.execute("SELECT * FROM movies WHERE movie_id IN (%s)" % (', '.join(recommendations)))
+		similar_movies = cur.fetchall()
+		for m in movies:
+			movielist[m] = {
+				'mid': m[0],
+				'title': m[1],
+				'description': m[2],
+				'image': m[3],
+				'year': m[4]
+			}
+	session_user = request.get_cookie('session_user') if 'session_user' in request.cookies else None
+	return template('static/feeds.html', movielist=movielist, session_user=session_user)
+
+@route('/movie/<movie_id>')
+def get_movie(movie_id):
+	movie = {}
+	with sqlite3.connect('data/data100.db') as con:
+		cur = con.cursor()
+		cur.execute("SELECT * FROM movies WHERE movie_id = ?", (movie_id,))
+		movie_result = cur.fetchone()
+		cur.execute("SELECT director FROM movie_directors WHERE movie_id = ?", (movie_id,))
+		directors = cur.fetchall()
+		cur.execute("SELECT actor FROM movie_actors WHERE movie_id = ?", (movie_id,))
+		actors = cur.fetchall()
+		cur.execute("SELECT writer FROM movie_writers WHERE movie_id = ?", (movie_id,))
+		writers = cur.fetchall()
+		cur.execute("SELECT genre FROM movie_genres WHERE movie_id = ?", (movie_id,))
+		genres = cur.fetchall()
+		cur.execute("SELECT * FROM ratings WHERE user_id = ? AND movie_id = ?", (request.get_cookie('session_user')[0], movie_id,))
+		rating = cur.fetchone()
+		cur.execute("SELECT * FROM ratings")
+		rating_results = cur.fetchall()
+		with open('data/tmp.dat', 'a') as f:
+			for l in rating_results:
+				f.write('%s,%s,%s\n' % (l[0], l[1], l[2]))
+		svd = SVD()
+		svd.load_data(filename='data/tmp.dat', sep=',', format={'col': 0, 'row': 1, 'value': 2, 'ids':int})
+		similar_list = [str(s[0]) for s in svd.similar(int(movie_id))]
+		cur.execute("SELECT * FROM movies WHERE movie_id IN (%s)" % (', '.join(similar_list)))
+		similar_movies = cur.fetchall()
+		movie = {
+			'mid': movie_result[0],
+			'title': movie_result[1],
+			'description': movie_result[2],
+			'image': movie_result[3],
+			'year': movie_result[4],
+			'directors': [d[0] for d in directors],
+			'writers': [w[0] for w in writers],
+			'actors': [a[0] for a in actors],
+			'genres': [g[0] for g in genres],
+			'rating': rating,
+			'similar_movies': similar_movies,
+		}
+	session_user = request.get_cookie('session_user') if 'session_user' in request.cookies else None
+	return template('static/movie.html', movie=movie, session_user=session_user)
+
+
+@route('/login')
+def login():
+	with sqlite3.connect('data/data100.db') as con:
+		cur = con.cursor()
+		cur.execute("SELECT * FROM users WHERE name = ?", (request.query.username,))
+		curr = cur.fetchone()
+		if curr:
+			response.set_cookie('session_user', curr, 'recsys')
+			redirect('/feeds')
+		else:
+			redirect('/')
+
+
+@route('/logout')
+def logout():
+	response.delete_cookie('session_user')
+	redirect('/')
+
+
+@route('/signup')
+def signup():
+	with sqlite3.connect('data/data100.db') as con:
+		cur = con.cursor()
+		cur.execute("INSERT INTO users VALUES(?, ?)", (None, request.forms.name))
+		cur.execute("SELECT * FROM users WHERE name = ?", (request.forms.name,))
+		curr_user = cur.fetchone()
+		for p in preferences:
+			cur.execute("INSERT INTO user_preferences VALUES(?, ?)", (curr_user[0], p))
+		redirect('/login')
+
+
+@route('/genre/<genre>')
+def search_genre(genre):
+	movielist = {}
+	with sqlite3.connect('data/data100.db') as con:
+		cur = con.cursor()
+		cur.execute("SELECT * FROM movies WHERE movie_id IN (SELECT movie_id FROM movie_genres WHERE genre = ?)", (genre,))
+		movies = cur.fetchall()
+		for m in movies:
+			movielist[m[0]] = {
+				'mid': m[0],
+				'title': m[1],
+				'description': m[2],
+				'image': m[3],
+				'year': m[4]
+			}
+	session_user = request.get_cookie('session_user') if 'session_user' in request.cookies else None
+	return template('static/search.html', movielist=movielist, keyword=genre, session_user=session_user)
+
+
+@route('/search')
+def search():
+	movielist = {}
+	with sqlite3.connect('data/data100.db') as con:
+		cur = con.cursor()
+		cur.execute("SELECT * FROM movies WHERE title LIKE ?", ('%' + request.query.keyword + '%',))
+		movies = cur.fetchall()
+		for m in movies:
+			movielist[m[0]] = {
+				'mid': m[0],
+				'title': m[1],
+				'description': m[2],
+				'image': m[3],
+				'year': m[4]
+			}
+	session_user = request.get_cookie('session_user') if 'session_user' in request.cookies else None
+	return template('static/search.html', movielist=movielist, keyword=request.query.keyword, session_user=session_user)
+
+
+@route('/rate/<movie_id>')
+def rate_movie(movie_id):
+	with sqlite3.connect('data/data100.db') as con:
+		cur = con.cursor()
+		print request.get_cookie('session_user')
+		cur.execute("INSERT INTO ratings VALUES (?, ?, ?)", (int(request.get_cookie('session_user')[0]), int(movie_id), int(request.query.rating)))
+	redirect('/movie/%s' % movie_id)
 
 
 @route('/css/<filename>')
@@ -27,43 +191,9 @@ def get_image(filename):
 	return static_file(filename, root='data/images/')
 
 
-@route('/feeds', method='post')
-def get_feeds():
-	preferences = request.forms.getall('genre')
-	movielist = []
-	with sqlite3.connect('data/data100.db') as con:
-		cur = con.cursor()
-		cur.execute("SELECT user_id FROM users WHERE name = ?", (request.forms.name,))
-		curr_user = cur.fetchone()
-		if curr_user:
-			print 'hey'
-		else:
-			cur.execute("INSERT INTO users VALUES(?, ?)", (None, request.forms.name))
-			cur.execute("SELECT * FROM users WHERE name = ?", (request.forms.name,))
-			curr_user = cur.fetchone()
-			for p in preferences:
-				cur.execute("INSERT INTO user_preferences VALUES(?, ?)", (curr_user[0], p))
-			query = "SELECT movie_id FROM movie_genres WHERE genre IN ('%s')" % ("', '".join(preferences))
-			cur.execute("SELECT * FROM movies WHERE movie_id IN (%s)" % query)
-			movielist = cur.fetchall()
-	return template('static/feeds.html', curr_user=curr_user, movielist=movielist)
-
-
-@route('/recommendations/<user_id>')
-def get_recommedations(user_id):
-	recsys_result = recommend(user_id)
-	to_execute = []
-	for r in recsys_result:
-		to_execute.append(str(r[0]))
-	movielist = []
-	curr_user = None
-	with sqlite3.connect('data/data100.db') as con:
-		cur = con.cursor()
-		cur.execute("SELECT * FROM movies WHERE movie_id IN (%s)" % (', '.join(to_execute)))
-		movielist = cur.fetchall()
-		cur.execute("SELECT * FROM users WHERE user_id = ?", (user_id,))
-		curr_user = cur.fetchone()
-	return template('static/recommendations.html', curr_user=curr_user, movielist=movielist)	
+@route('/fonts/<filename>')
+def get_stylesheet(filename):
+	return static_file(filename, root='static/fonts/')
 
 
 @error(404)

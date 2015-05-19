@@ -1,0 +1,14 @@
+<div class='container'>
+	<div class="row">
+	%for movie in movielist:
+		<div class="col-sm-6 col-md-4">
+			<img class='img_icon' src="/img/{{ movielist[movie]['mid'] }}.png">
+			<div class="truncate">
+				<h3>{{ movielist[movie]['title'] }} <small>({{ movielist[movie]['year'] }})</small></h3>
+				<p>{{ movielist[movie]['description'] }}</p>
+				<p><a href="/movie/{{ movielist[movie]['mid'] }}" class="btn btn-primary" role="button">View</a>
+			</div>
+		</div>
+	%end
+	</div>
+</div>

@@ -1,7 +1,8 @@
+from pprint import pprint
+from random import randint, choice
 import sqlite3
 import json
 import pickle
-from pprint import pprint
 
 def parse_data100():
 	users_keys_lookup = {}
@@ -12,6 +13,7 @@ def parse_data100():
 		for d in imdb100:
 			imdb100_tuple.append((d, imdb100[d]['title'], imdb100[d]['description'], imdb100[d]['image'], imdb100[d]['year']))
 		try:
+			print 'creating tables...'
 			cur.execute("CREATE TABLE movies (movie_id INTEGER, title TEXT, description TEXT, image TEXT, year INTEGER)")
 			cur.execute("CREATE TABLE movie_directors (movie_id INTEGER, director TEXT)")
 			cur.execute("CREATE TABLE movie_writers (movie_id INTEGER, writer TEXT)")
@@ -41,16 +43,22 @@ def parse_data100():
 			for genre in imdb100[d]['genres']:
 				cur.execute("INSERT INTO movie_genres VALUES (?, ?)", (d, genre,))
 		print 'preparing data/movielens.pickle...'
-		movielens = pickle.load(open('data/movielens.pickle', 'rb'))
 		i = 1
 		users_tuple = []
 		ratings_tuple = []
+		movielens = pickle.load(open('data/movielens.pickle', 'rb'))
+		usernames = json.loads(open('data/usernames.json').read())
+		genres = [g.strip() for g in open('data/genres.csv').readlines()]
 		for user in movielens['data']:
 			users_keys_lookup[user] = i
-			users_tuple.append((i, None))
+			rand_username = usernames.pop(randint(0, len(usernames)-1) if len(usernames) > 0 else 0)
+			users_tuple.append((i, rand_username))
+			cur.execute("INSERT INTO user_preferences VALUES (?, ?)", (i, choice(genres),))
 			for r in movielens['data'][user]:
 				ratings_tuple.append((i, r, movielens['data'][user][r]))
 			i += 1
+			if i > 500:
+				break
 		print 'db-logging users...'
 		cur.executemany("INSERT INTO users VALUES (?, ?)", users_tuple)
 		print 'db-logging ratings...'

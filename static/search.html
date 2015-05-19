@@ -12,8 +12,8 @@
 	<body>
 		<div class="container">
 			%include('static/templates/header.html', session_user=session_user)
-			<h1>Top Recommendations:</h1>
-			%include('static/templates/container.html', movielist=movielist)
+			<h1>Search Results: <em>{{ keyword }}</em></h1>
+			%include('static/templates/container.html', movielist=movielist, session_user=session_user)			
 		</div>
 
 		<script src="/js/jquery.js"></script>
