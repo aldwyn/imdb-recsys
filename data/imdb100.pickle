@@ -1,0 +1,4069 @@
+(dp0
+I1
+(dp1
+S'directors'
+p2
+(lp3
+VJohn Lasseter
+p4
+asS'writers'
+p5
+(lp6
+VJohn Lasseter
+p7
+aVPete Docter
+p8
+asS'description'
+p9
+VA cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.
+p10
+sS'stars'
+p11
+(lp12
+VTom Hanks
+p13
+aVTim Allen
+p14
+aVDon Rickles
+p15
+asS'title'
+p16
+S'Toy Story'
+p17
+sS'image'
+p18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgwMjI4MzU5N15BMl5BanBnXkFtZTcwMTMyNTk3OA@@._V1_SY317_CR12,0,214,317_AL_.jpg
+p19
+sS'year'
+p20
+S'1995'
+p21
+sS'id'
+p22
+I1
+sS'genres'
+p23
+(lp24
+VAnimation
+p25
+aVAdventure
+p26
+aVComedy
+p27
+assI2
+(dp28
+g2
+(lp29
+VMartin Campbell
+p30
+asg5
+(lp31
+VIan Fleming
+p32
+aVMichael France
+p33
+asg9
+VJames Bond teams up with the lone survivor of a destroyed Russian research center to stop the hijacking of a nuclear space weapon by a fellow agent believed to be dead.
+p34
+sg11
+(lp35
+VPierce Brosnan
+p36
+aVSean Bean
+p37
+aVIzabella Scorupco
+p38
+asg16
+S'GoldenEye'
+p39
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMzk2OTg4MTk1NF5BMl5BanBnXkFtZTcwNjExNTgzNA@@._V1_SX214_AL_.jpg
+p40
+sg20
+S'1995'
+p41
+sg22
+I2
+sg23
+(lp42
+VAction
+p43
+aVAdventure
+p44
+aVThriller
+p45
+assI3
+(dp46
+g2
+(lp47
+VAllison Anders
+p48
+aVAlexandre Rockwell
+p49
+asg5
+(lp50
+VAllison Anders
+p51
+aVAlexandre Rockwell
+p52
+asg9
+VFour interlocking tales that take place in a fading hotel on New Year's Eve.
+p53
+sg11
+(lp54
+VTim Roth
+p55
+aVAmanda De Cadenet
+p56
+aVDavid Proval
+p57
+asg16
+S'Four Rooms'
+p58
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQwOTMzNjA0Nl5BMl5BanBnXkFtZTcwMjgzNTUyMQ@@._V1_SX214_AL_.jpg
+p59
+sg20
+S'1995'
+p60
+sg22
+I3
+sg23
+(lp61
+VComedy
+p62
+aVCrime
+p63
+assI4
+(dp64
+g2
+(lp65
+VBarry Sonnenfeld
+p66
+asg5
+(lp67
+VElmore Leonard
+p68
+aVScott Frank
+p69
+asg9
+VA mobster travels to Hollywood to collect a debt and discovers that the movie business is much the same as his current job.
+p70
+sg11
+(lp71
+VGene Hackman
+p72
+aVRene Russo
+p73
+aVDanny DeVito
+p74
+asg16
+S'Get Shorty'
+p75
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjAwODYzNDY4Ml5BMl5BanBnXkFtZTcwODkwNTgzNA@@._V1_SX214_AL_.jpg
+p76
+sg20
+S'1995'
+p77
+sg22
+I4
+sg23
+(lp78
+VComedy
+p79
+aVCrime
+p80
+aVThriller
+p81
+assI5
+(dp82
+g2
+(lp83
+VJon Amiel
+p84
+asg5
+(lp85
+VAnn Biderman
+p86
+aVDavid Madsen
+p87
+asg9
+VAn agoraphobic psychologist and a female detective must work together to take down a serial killer who copies serial killers from the past.
+p88
+sg11
+(lp89
+VSigourney Weaver
+p90
+aVHolly Hunter
+p91
+aVDermot Mulroney
+p92
+asg16
+S'Copycat'
+p93
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTMwNzcwMTAxOV5BMl5BanBnXkFtZTYwMzYyNzQ5._V1_SY317_CR11,0,214,317_AL_.jpg
+p94
+sg20
+S'1995'
+p95
+sg22
+I5
+sg23
+(lp96
+VCrime
+p97
+aVDrama
+p98
+aVMystery
+p99
+assI6
+(dp100
+g2
+(lp101
+VYimou Zhang
+p102
+asg5
+(lp103
+VBi Feiyu
+p104
+aVLi Xiao
+p105
+asg9
+VA provincial boy related to a Shanghai crime family is recruited by his uncle into cosmopolitan Shanghai in the 1930s to be a servant to a ganglord's mistress.
+p106
+sg11
+(lp107
+VLi Gong
+p108
+aVBaotian Li
+p109
+aVWang Xiaoxiao
+p110
+asg16
+S'Shanghai Triad'
+p111
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgyMzAwOTQyNF5BMl5BanBnXkFtZTcwNDU1MjgxMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg
+p112
+sg20
+S'1995'
+p113
+sg22
+I6
+sg23
+(lp114
+VCrime
+p115
+aVDrama
+p116
+assI7
+(dp117
+g2
+(lp118
+VTerry Gilliam
+p119
+asg5
+(lp120
+VChris Marker
+p121
+aVDavid Webb Peoples
+p122
+asg9
+VIn a future world devastated by disease, a convict is sent back in time to gather information about the man-made virus that wiped out most of the human population on the planet.
+p123
+sg11
+(lp124
+VBruce Willis
+p125
+aVMadeleine Stowe
+p126
+aVBrad Pitt
+p127
+asg16
+S'Twelve Monkeys'
+p128
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjI4MDIxNjk2Ml5BMl5BanBnXkFtZTcwMTA3Njk3OA@@._V1_SY317_CR12,0,214,317_AL_.jpg
+p129
+sg20
+S'1995'
+p130
+sg22
+I7
+sg23
+(lp131
+VMystery
+p132
+aVSci-Fi
+p133
+aVThriller
+p134
+assI8
+(dp135
+g2
+(lp136
+VChris Noonan
+p137
+asg5
+(lp138
+VDick King-Smith
+p139
+aVGeorge Miller
+p140
+asg9
+VBabe, a pig raised by sheepdogs, learns to herd sheep with a little help from Farmer Hoggett.
+p141
+sg11
+(lp142
+VJames Cromwell
+p143
+aVMagda Szubanski
+p144
+aVChristine Cavanaugh
+p145
+asg16
+S'Babe'
+p146
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTIwNzY2OTIzN15BMl5BanBnXkFtZTcwNjcxODAzMQ@@._V1_SY317_CR7,0,214,317_AL_.jpg
+p147
+sg20
+S'1995'
+p148
+sg22
+I8
+sg23
+(lp149
+VComedy
+p150
+aVDrama
+p151
+aVFamily
+p152
+assI9
+(dp153
+g2
+(lp154
+VTim Robbins
+p155
+asg5
+(lp156
+VHelen Prejean
+p157
+aVTim Robbins
+p158
+asg9
+VA nun, while comforting a convicted killer on death row, empathizes with both the killer and his victim's families.
+p159
+sg11
+(lp160
+VSusan Sarandon
+p161
+aVSean Penn
+p162
+aVRobert Prosky
+p163
+asg16
+S'Dead Man Walking'
+p164
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTM3NzA1MjM2N15BMl5BanBnXkFtZTcwMzY3MTMzNA@@._V1_SX214_AL_.jpg
+p165
+sg20
+S'1995'
+p166
+sg22
+I9
+sg23
+(lp167
+VCrime
+p168
+aVDrama
+p169
+assI10
+(dp170
+g2
+(lp171
+VRichard Loncraine
+p172
+asg5
+(lp173
+VWilliam Shakespeare
+p174
+aVIan McKellen
+p175
+asg9
+VThe classic Shakespearean play about a murderously scheming king staged in an alternative fascist England setting.
+p176
+sg11
+(lp177
+VIan McKellen
+p178
+aVAnnette Bening
+p179
+aVJim Broadbent
+p180
+asg16
+S'Richard III'
+p181
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTI3MzMwMzIxMF5BMl5BanBnXkFtZTYwNTM0Nzc5._V1_SY317_CR3,0,214,317_AL_.jpg
+p182
+sg20
+S'1995'
+p183
+sg22
+I10
+sg23
+(lp184
+VDrama
+p185
+aVWar
+p186
+assI11
+(dp187
+g2
+(lp188
+VDavid Fincher
+p189
+asg5
+(lp190
+VAndrew Kevin Walker
+p191
+asg9
+VTwo detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.
+p192
+sg11
+(lp193
+VMorgan Freeman
+p194
+aVBrad Pitt
+p195
+aVKevin Spacey
+p196
+asg16
+S'Seven'
+p197
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQwNTU3MTE4NF5BMl5BanBnXkFtZTcwOTgxNDM2Mg@@._V1_SX214_AL_.jpg
+p198
+sg20
+S'1995'
+p199
+sg22
+I11
+sg23
+(lp200
+VDrama
+p201
+aVMystery
+p202
+aVThriller
+p203
+assI12
+(dp204
+g2
+(lp205
+VBryan Singer
+p206
+asg5
+(lp207
+VChristopher McQuarrie
+p208
+asg9
+VA sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which begin when five criminals meet at a seemingly random police lineup.
+p209
+sg11
+(lp210
+VKevin Spacey
+p211
+aVGabriel Byrne
+p212
+aVChazz Palminteri
+p213
+asg16
+S'Usual Suspects, The'
+p214
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMzI1MjI5MDQyOV5BMl5BanBnXkFtZTcwNzE4Mjg3NA@@._V1_SX214_AL_.jpg
+p215
+sg20
+S'1995'
+p216
+sg22
+I12
+sg23
+(lp217
+VCrime
+p218
+aVDrama
+p219
+aVThriller
+p220
+assI13
+(dp221
+g2
+(lp222
+VWoody Allen
+p223
+asg5
+(lp224
+VWoody Allen
+p225
+asg9
+VWhen he discovers his adopted son is a genius, a New York sportswriter seeks out the boy's birth mother: a prostitute.
+p226
+sg11
+(lp227
+VWoody Allen
+p228
+aVMira Sorvino
+p229
+aVPamela Blair
+p230
+asg16
+S'Mighty Aphrodite'
+p231
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTUzMzE3Nzg5Ml5BMl5BanBnXkFtZTcwNTIxNDEyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p232
+sg20
+S'1995'
+p233
+sg22
+I13
+sg23
+(lp234
+VComedy
+p235
+aVFantasy
+p236
+aVRomance
+p237
+assI14
+(dp238
+g2
+(lp239
+VMichael Radford
+p240
+asg5
+(lp241
+VAntonio Skármeta
+p242
+aVFurio Scarpelli
+p243
+asg9
+VSimple Italian postman learns to love poetry while delivering mail to a famous poet; he uses this to woo local beauty Beatrice.
+p244
+sg11
+(lp245
+VMassimo Troisi
+p246
+aVPhilippe Noiret
+p247
+aVMaria Grazia Cucinotta
+p248
+asg16
+S'Postino, Il'
+p249
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTY5NDI4NjQyOV5BMl5BanBnXkFtZTYwODI1NDE5._V1_SY317_CR5,0,214,317_AL_.jpg
+p250
+sg20
+S'1994'
+p251
+sg22
+I14
+sg23
+(lp252
+VBiography
+p253
+aVComedy
+p254
+aVDrama
+p255
+assI15
+(dp256
+g2
+(lp257
+VStephen Herek
+p258
+asg5
+(lp259
+VPatrick Sheane Duncan
+p260
+asg9
+VA frustrated composer finds fulfillment as a high school music teacher.
+p261
+sg11
+(lp262
+VRichard Dreyfuss
+p263
+aVGlenne Headly
+p264
+aVJay Thomas
+p265
+asg16
+S"Mr. Holland's Opus"
+p266
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTUxODUxOTk2M15BMl5BanBnXkFtZTcwODk2NDYxMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p267
+sg20
+S'1995'
+p268
+sg22
+I15
+sg23
+(lp269
+VDrama
+p270
+aVMusic
+p271
+assI16
+(dp272
+g2
+(lp273
+VJosiane Balasko
+p274
+asg5
+(lp275
+VPatrick Aubrée
+p276
+aVJosiane Balasko
+p277
+asg9
+VAfter learning of her husband's infidelities, a housewife invites an itinerant lesbian to move in with them. None of their lives will ever be the same again.
+p278
+sg11
+(lp279
+VVictoria Abril
+p280
+aVJosiane Balasko
+p281
+aVAlain Chabat
+p282
+asg16
+S'French Twist'
+p283
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTg3NjczMTU1OF5BMl5BanBnXkFtZTcwOTAzNTQyMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg
+p284
+sg20
+S'Gazon maudit'
+p285
+sg22
+I16
+sg23
+(lp286
+VComedy
+p287
+assI17
+(dp288
+g2
+(lp289
+VRobert Rodriguez
+p290
+asg5
+(lp291
+VRobert Kurtzman
+p292
+aVQuentin Tarantino
+p293
+asg9
+VTwo criminals and their hostages unknowingly seek temporary refuge in an establishment populated by vampires, with chaotic results.
+p294
+sg11
+(lp295
+VHarvey Keitel
+p296
+aVGeorge Clooney
+p297
+aVJuliette Lewis
+p298
+asg16
+S'From Dusk Till Dawn'
+p299
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTUzNjI5NTUwOV5BMl5BanBnXkFtZTcwMDAyMDQyMQ@@._V1_SX214_AL_.jpg
+p300
+sg20
+S'1996'
+p301
+sg22
+I17
+sg23
+(lp302
+VAction
+p303
+aVCrime
+p304
+aVHorror
+p305
+assI18
+(dp306
+g2
+(lp307
+VJafar Panahi
+p308
+asg5
+(lp309
+VAbbas Kiarostami
+p310
+aVJafar Panahi
+p311
+asg9
+VSeveral people try to take advantage of a little girl's innocence to hustle money her mom gave to her to buy a goldfish with.
+p312
+sg11
+(lp313
+VAida Mohammadkhani
+p314
+aVMohsen Kafili
+p315
+aVFereshteh Sadre Orafaiy
+p316
+asg16
+S'White Balloon, The'
+p317
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTE5ODk5MDAwN15BMl5BanBnXkFtZTYwNDA3MjE5._V1_SX214_AL_.jpg
+p318
+sg20
+S'1995'
+p319
+sg22
+I18
+sg23
+(lp320
+VDrama
+p321
+aVFamily
+p322
+assI19
+(dp323
+g2
+(lp324
+VMarleen Gorris
+p325
+asg5
+(lp326
+VMarleen Gorris
+p327
+asg9
+VA Dutch matron establishes and, for several generations, oversees a close-knit, matriarchal community where feminism and liberalism thrive.
+p328
+sg11
+(lp329
+VWilleke van Ammelrooy
+p330
+aVJan Decleir
+p331
+aVVeerle van Overloop
+p332
+asg16
+S"Antonia's Line"
+p333
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgwNjkwOTQ5NV5BMl5BanBnXkFtZTcwNjc3ODAyMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg
+p334
+sg20
+S'1995'
+p335
+sg22
+I19
+sg23
+(lp336
+VComedy
+p337
+aVDrama
+p338
+assI20
+(dp339
+g2
+(lp340
+VPhilip Haas
+p341
+asg5
+(lp342
+VA.S. Byatt
+p343
+aVBelinda Haas
+p344
+asg9
+VIn the 1800s a naturalist marries into a family of British aristocrats.
+p345
+sg11
+(lp346
+VMark Rylance
+p347
+aVKristin Scott Thomas
+p348
+aVPatsy Kensit
+p349
+asg16
+S'Angels and Insects'
+p350
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BOTgwMTExNjk2M15BMl5BanBnXkFtZTcwNzQxNTEzMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg
+p351
+sg20
+S'1995'
+p352
+sg22
+I20
+sg23
+(lp353
+VDrama
+p354
+aVRomance
+p355
+assI21
+(dp356
+g2
+(lp357
+VBrian Henson
+p358
+asg5
+(lp359
+VRobert Louis Stevenson
+p360
+aVJerry Juhl
+p361
+asg9
+VThe Muppets' twist on the classic tale.
+p362
+sg11
+(lp363
+VTim Curry
+p364
+aVBilly Connolly
+p365
+aVJennifer Saunders
+p366
+asg16
+S'Muppet Treasure Island'
+p367
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTY0NDU1MDYxMl5BMl5BanBnXkFtZTcwNjgyMTEzMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg
+p368
+sg20
+S'1996'
+p369
+sg22
+I21
+sg23
+(lp370
+VAction
+p371
+aVAdventure
+p372
+aVComedy
+p373
+assI22
+(dp374
+g2
+(lp375
+VMel Gibson
+p376
+asg5
+(lp377
+VRandall Wallace
+p378
+asg9
+VWhen his secret bride is executed for assaulting an English soldier who tried to rape her, William Wallace begins a revolt and leads Scottish warriors against the cruel English tyrant who rules Scotland with an iron fist.
+p379
+sg11
+(lp380
+VMel Gibson
+p381
+aVSophie Marceau
+p382
+aVPatrick McGoohan
+p383
+asg16
+S'Braveheart'
+p384
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BNjA4ODYxMDU3Nl5BMl5BanBnXkFtZTcwMzkzMTk3OA@@._V1_SX214_AL_.jpg
+p385
+sg20
+S'1995'
+p386
+sg22
+I22
+sg23
+(lp387
+VAction
+p388
+aVBiography
+p389
+aVDrama
+p390
+assI23
+(dp391
+g2
+(lp392
+VMartin Scorsese
+p393
+asg5
+(lp394
+VPaul Schrader
+p395
+asg9
+VA mentally unstable Vietnam war veteran works as a night-time taxi driver in New York City where the perceived decadence and sleaze feeds his urge for violent action, attempting to save a preadolescent prostitute in the process.
+p396
+sg11
+(lp397
+VRobert De Niro
+p398
+aVJodie Foster
+p399
+aVCybill Shepherd
+p400
+asg16
+S'Taxi Driver'
+p401
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQ1Nzg3MDQwN15BMl5BanBnXkFtZTcwNDE2NDU2MQ@@._V1_SY317_CR9,0,214,317_AL_.jpg
+p402
+sg20
+S'1976'
+p403
+sg22
+I23
+sg23
+(lp404
+VCrime
+p405
+aVDrama
+p406
+assI24
+(dp407
+g2
+(lp408
+VStanley Tong
+p409
+asg5
+(lp410
+VEdward Tang
+p411
+aVFibe Ma
+p412
+asg9
+VA young man visiting and helping his uncle in New York City finds himself forced to fight a street gang and the mob with his martial art skills.
+p413
+sg11
+(lp414
+VJackie Chan
+p415
+aVAnita Mui
+p416
+aVFrançoise Yip
+p417
+asg16
+S'Rumble in the Bronx'
+p418
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjEwNzYxMTIyNl5BMl5BanBnXkFtZTYwOTA5MTE5._V1_SY317_CR8,0,214,317_AL_.jpg
+p419
+sg20
+S'1995'
+p420
+sg22
+I24
+sg23
+(lp421
+VAction
+p422
+aVComedy
+p423
+aVCrime
+p424
+assI25
+(dp425
+g2
+(lp426
+VMike Nichols
+p427
+asg5
+(lp428
+VJean Poiret
+p429
+aVFrancis Veber
+p430
+asg9
+VA gay cabaret owner and his drag queen companion agree to put up a false straight front so that their son can introduce them to his fiancée's right-wing moralistic parents.
+p431
+sg11
+(lp432
+VRobin Williams
+p433
+aVNathan Lane
+p434
+aVGene Hackman
+p435
+asg16
+S'Birdcage, The'
+p436
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTM2NjExODYyOF5BMl5BanBnXkFtZTcwNTc0NjgyNA@@._V1_SX214_AL_.jpg
+p437
+sg20
+S'1996'
+p438
+sg22
+I25
+sg23
+(lp439
+VComedy
+p440
+assI26
+(dp441
+g2
+(lp442
+VEdward Burns
+p443
+asg5
+(lp444
+VEdward Burns
+p445
+asg9
+VThree Irish Catholic brothers from Long Island struggle to deal with love, marriage, and infidelity.
+p446
+sg11
+(lp447
+VJack Mulcahy
+p448
+aVMichael McGlone
+p449
+aVEdward Burns
+p450
+asg16
+S'Brothers McMullen, The'
+p451
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTIwODk3MDU5N15BMl5BanBnXkFtZTcwMTE2NTYyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p452
+sg20
+S'1995'
+p453
+sg22
+I26
+sg23
+(lp454
+VComedy
+p455
+aVDrama
+p456
+aVRomance
+p457
+assI27
+(dp458
+g2
+(lp459
+VMichael Bay
+p460
+asg5
+(lp461
+VGeorge Gallo
+p462
+aVMichael Barrie
+p463
+asg9
+VTwo hip detectives protect a murder witness while investigating a case of stolen heroin.
+p464
+sg11
+(lp465
+VWill Smith
+p466
+aVMartin Lawrence
+p467
+aVLisa Boyle
+p468
+asg16
+S'Bad Boys'
+p469
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTY4NDk1NTU5NF5BMl5BanBnXkFtZTcwMjE2NDU2MQ@@._V1_SY317_CR0,0,214,317_AL_.jpg
+p470
+sg20
+S'1995'
+p471
+sg22
+I27
+sg23
+(lp472
+VAction
+p473
+aVComedy
+p474
+aVCrime
+p475
+assI28
+(dp476
+g2
+(lp477
+VRon Howard
+p478
+asg5
+(lp479
+VJim Lovell
+p480
+aVJeffrey Kluger
+p481
+asg9
+VNASA must devise a strategy to return Apollo 13 to Earth safely after the spacecraft undergoes massive internal damage putting the lives of the three astronauts on board in jeopardy.
+p482
+sg11
+(lp483
+VTom Hanks
+p484
+aVBill Paxton
+p485
+aVKevin Bacon
+p486
+asg16
+S'Apollo 13'
+p487
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTM2Njg2NjU5NF5BMl5BanBnXkFtZTYwODI5MDc4._V1_.jpg
+p488
+sg20
+S'1995'
+p489
+sg22
+I28
+sg23
+(lp490
+VAdventure
+p491
+aVDrama
+p492
+aVHistory
+p493
+assI29
+(dp494
+g2
+(lp495
+VJoel Schumacher
+p496
+asg5
+(lp497
+VBob Kane
+p498
+aVLee Batchler
+p499
+asg9
+VBatman must battle Two-Face and The Riddler with help of an amourous psychologist and a young circus acrobat who becomes his sidekick, Robin.
+p500
+sg11
+(lp501
+VVal Kilmer
+p502
+aVTommy Lee Jones
+p503
+aVJim Carrey
+p504
+asg16
+S'Batman Forever'
+p505
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjAwOTEyNjg0M15BMl5BanBnXkFtZTYwODQyMTI5._V1_SY317_CR10,0,214,317_AL_.jpg
+p506
+sg20
+S'1995'
+p507
+sg22
+I29
+sg23
+(lp508
+VAction
+p509
+aVAdventure
+p510
+aVFantasy
+p511
+assI30
+(dp512
+g2
+(lp513
+VLuis Buñuel
+p514
+asg5
+(lp515
+VJoseph Kessel
+p516
+aVLuis Buñuel
+p517
+asg9
+VA frigid young housewife decides to spend her midweek afternoons as a prostitute.
+p518
+sg11
+(lp519
+VCatherine Deneuve
+p520
+aVJean Sorel
+p521
+aVMichel Piccoli
+p522
+asg16
+S'Belle de jour'
+p523
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTMyMjUyNDY5MV5BMl5BanBnXkFtZTcwMzMxNDkxMQ@@._V1_SY317_CR8,0,214,317_AL_.jpg
+p524
+sg20
+S'1967'
+p525
+sg22
+I30
+sg23
+(lp526
+VDrama
+p527
+assI31
+(dp528
+g2
+(lp529
+VTony Scott
+p530
+asg5
+(lp531
+VMichael Schiffer
+p532
+aVRichard P. Henrick
+p533
+asg9
+VOn a US nuclear missile sub, a young first officer stages a mutiny to prevent his trigger happy captain from launching his missiles before confirming his orders to do so.
+p534
+sg11
+(lp535
+VGene Hackman
+p536
+aVDenzel Washington
+p537
+aVMatt Craven
+p538
+asg16
+S'Crimson Tide'
+p539
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjIyOTgzNTE5OF5BMl5BanBnXkFtZTgwODA2NDkyMTE@._V1_SY317_CR0,0,214,317_AL_.jpg
+p540
+sg20
+S'1995'
+p541
+sg22
+I31
+sg23
+(lp542
+VAction
+p543
+aVDrama
+p544
+aVThriller
+p545
+assI32
+(dp546
+g2
+(lp547
+VBlake Edwards
+p548
+asg5
+(lp549
+VFrank Waldman
+p550
+aVBlake Edwards
+p551
+asg9
+VInspector Clouseau is put on the case when the Pink Panther diamond is stolen, with the Phantom's trademark glove the only clue.
+p552
+sg11
+(lp553
+VPeter Sellers
+p554
+aVChristopher Plummer
+p555
+aVCatherine Schell
+p556
+asg16
+S'Return of the Pink Panther, The'
+p557
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTM2ODk5NDU2M15BMl5BanBnXkFtZTcwMDQ0MTMyNA@@._V1_SX214_AL_.jpg
+p558
+sg20
+S'1974'
+p559
+sg22
+I32
+sg23
+(lp560
+VComedy
+p561
+aVCrime
+p562
+aVMystery
+p563
+assI33
+(dp564
+g2
+(lp565
+VRobert Rodriguez
+p566
+asg5
+(lp567
+VRobert Rodriguez
+p568
+asg9
+VA gunslinger is embroiled in a war with a local drug runner.
+p569
+sg11
+(lp570
+VAntonio Banderas
+p571
+aVSalma Hayek
+p572
+aVJoaquim de Almeida
+p573
+asg16
+S'Desperado'
+p574
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjM0MDQ5NTc3N15BMl5BanBnXkFtZTgwMzQxNzQxMTE@._V1_SY317_CR0,0,214,317_AL_.jpg
+p575
+sg20
+S'1995'
+p576
+sg22
+I33
+sg23
+(lp577
+VAction
+p578
+aVCrime
+p579
+aVThriller
+p580
+assI34
+(dp581
+g2
+(lp582
+VGregg Araki
+p583
+asg5
+(lp584
+VGregg Araki
+p585
+asg9
+VJordan White and Amy Blue, two troubled teens, pick up an adolescent drifter, Xavier Red. Together, the threesome embark on a sex and violence-filled journey through an America of psychos and quickiemarts.
+p586
+sg11
+(lp587
+VJames Duval
+p588
+aVRose McGowan
+p589
+aVJohnathon Schaech
+p590
+asg16
+S'Doom Generation, The'
+p591
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgxNTIxNjgyOF5BMl5BanBnXkFtZTcwNjc2MzE3MQ@@._V1_SY317_CR4,0,214,317_AL_.jpg
+p592
+sg20
+S'1995'
+p593
+sg22
+I34
+sg23
+(lp594
+VAction
+p595
+aVComedy
+p596
+aVCrime
+p597
+assI35
+(dp598
+g2
+(lp599
+VDwight H. Little
+p600
+asg5
+(lp601
+VKeith Walker
+p602
+aVKaren Janszen
+p603
+asg9
+VJesse becomes reunited with Willy three years after the whale's jump to freedom as the teenager tries to rescue the killer whale and other orcas from an oil spill.
+p604
+sg11
+(lp605
+VJason James Richter
+p606
+aVMichael Madsen
+p607
+aVFrancis Capra
+p608
+asg16
+S'Free Willy 2: The Adventure Home'
+p609
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjgyNTc4Mzk4OV5BMl5BanBnXkFtZTcwMDgwMDQyMQ@@._V1_SX214_AL_.jpg
+p610
+sg20
+S'1995'
+p611
+sg22
+I35
+sg23
+(lp612
+VAdventure
+p613
+aVDrama
+p614
+assI36
+(dp615
+g2
+(lp616
+VAntonia Bird
+p617
+asg5
+(lp618
+VPaula Milne
+p619
+asg9
+VCasey and Matt are high school kids in love. They run away together after Casey's parents check her into a mental hospital for trying to kill herself. Matt sneaks her out and on the road ...                See full summary »
+p620
+sg11
+(lp621
+VChris O'Donnell
+p622
+aVDrew Barrymore
+p623
+aVMatthew Lillard
+p624
+asg16
+S'Mad Love'
+p625
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BNDE0NTQ1NjQzM15BMl5BanBnXkFtZTYwNDI4MDU5._V1_SY317_CR5,0,214,317_AL_.jpg
+p626
+sg20
+S'1995'
+p627
+sg22
+I36
+sg23
+(lp628
+VDrama
+p629
+aVRomance
+p630
+assI37
+(dp631
+g2
+(lp632
+VMichael Almereyda
+p633
+asg5
+(lp634
+VMichael Almereyda
+p635
+asg9
+VThis ultra-hip, post-modern vampire tale is set in contemporary New York City. Members of a dysfunctional family of vampires are trying to come to terms with each other, in the wake of ...                See full summary »
+p636
+sg11
+(lp637
+VElina Löwensohn
+p638
+aVPeter Fonda
+p639
+aVNic Ratner
+p640
+asg16
+S'Nadja'
+p641
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTk2NTE5MDI4MV5BMl5BanBnXkFtZTcwODM4MDMzMQ@@._V1_SY317_CR51,0,214,317_AL_.jpg
+p642
+sg20
+S'1994'
+p643
+sg22
+I37
+sg23
+(lp644
+VDrama
+p645
+aVHorror
+p646
+assI38
+(dp647
+g2
+(lp648
+VIrwin Winkler
+p649
+asg5
+(lp650
+VJohn D. Brancato
+p651
+aVMichael Ferris
+p652
+asg9
+VA computer programmer stumbles upon a conspiracy, putting her life and the lives of those around her in great danger.
+p653
+sg11
+(lp654
+VSandra Bullock
+p655
+aVJeremy Northam
+p656
+aVDennis Miller
+p657
+asg16
+S'Net, The'
+p658
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTU0NjA2NzIwOF5BMl5BanBnXkFtZTYwNTExNTg4._V1_SY317_CR1,0,214,317_AL_.jpg
+p659
+sg20
+S'1995'
+p660
+sg22
+I38
+sg23
+(lp661
+VAction
+p662
+aVCrime
+p663
+aVDrama
+p664
+assI39
+(dp665
+g2
+(lp666
+VKathryn Bigelow
+p667
+asg5
+(lp668
+VJames Cameron
+p669
+aVJames Cameron
+p670
+asg9
+VA former cop turned street-hustler accidentally uncovers a police conspiracy in 1999 Los Angeles.
+p671
+sg11
+(lp672
+VRalph Fiennes
+p673
+aVAngela Bassett
+p674
+aVJuliette Lewis
+p675
+asg16
+S'Strange Days'
+p676
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQxMzk0NTQ4Ml5BMl5BanBnXkFtZTgwNjY0MDQ1MDE@._V1_SX214_AL_.jpg
+p677
+sg20
+S'1995'
+p678
+sg22
+I39
+sg23
+(lp679
+VAction
+p680
+aVCrime
+p681
+aVDrama
+p682
+assI40
+(dp683
+g2
+(lp684
+VBeeban Kidron
+p685
+asg5
+(lp686
+VDouglas Carter Beane
+p687
+asg9
+VThree drag queens travel cross-country until their car breaks down, leaving them stranded in a small town.
+p688
+sg11
+(lp689
+VWesley Snipes
+p690
+aVPatrick Swayze
+p691
+aVJohn Leguizamo
+p692
+asg16
+S'To Wong Foo, Thanks for Everything! Julie Newmar'
+p693
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjEyNzgxNTk0OF5BMl5BanBnXkFtZTcwOTAzNjgyMQ@@._V1._CR2,3,261,413_SX214_AL_.jpg
+p694
+sg20
+S'1995'
+p695
+sg22
+I40
+sg23
+(lp696
+VComedy
+p697
+assI41
+(dp698
+g2
+(lp699
+VTamra Davis
+p700
+asg5
+(lp701
+VTim Herlihy
+p702
+aVAdam Sandler
+p703
+asg9
+VIn order to inherit his fed up father's hotel empire, an immature and lazy man must repeat grades 1-12 all over again.
+p704
+sg11
+(lp705
+VAdam Sandler
+p706
+aVDarren McGavin
+p707
+aVBridgette Wilson-Sampras
+p708
+asg16
+S'Billy Madison'
+p709
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgwNDg1NjUxN15BMl5BanBnXkFtZTgwOTg0NzQxMTE@._V1_SY317_CR0,0,214,317_AL_.jpg
+p710
+sg20
+S'1995'
+p711
+sg22
+I41
+sg23
+(lp712
+VComedy
+p713
+assI42
+(dp714
+g2
+(lp715
+VKevin Smith
+p716
+asg5
+(lp717
+VKevin Smith
+p718
+asg9
+VA day in the lives of two convenience clerks named Dante and Randal as they annoy customers, discuss movies, and play hockey on the store roof.
+p719
+sg11
+(lp720
+VBrian O'Halloran
+p721
+aVJeff Anderson
+p722
+aVMarilyn Ghigliotti
+p723
+asg16
+S'Clerks'
+p724
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTg3MTkyMzA0NF5BMl5BanBnXkFtZTgwNTg0NDI1MDE@._V1_SX214_AL_.jpg
+p725
+sg20
+S'1994'
+p726
+sg22
+I42
+sg23
+(lp727
+VComedy
+p728
+assI43
+(dp729
+g2
+(lp730
+VBarry Levinson
+p731
+asg5
+(lp732
+VMichael Crichton
+p733
+aVPaul Attanasio
+p734
+asg9
+VA computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.
+p735
+sg11
+(lp736
+VMichael Douglas
+p737
+aVDemi Moore
+p738
+aVDonald Sutherland
+p739
+asg16
+S'Disclosure'
+p740
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTM2MTU3NTY1OF5BMl5BanBnXkFtZTcwMjQ3OTYxMQ@@._V1_SY317_CR11,0,214,317_AL_.jpg
+p741
+sg20
+S'1994'
+p742
+sg22
+I43
+sg23
+(lp743
+VDrama
+p744
+aVThriller
+p745
+assI44
+(dp746
+g2
+(lp747
+VTaylor Hackford
+p748
+asg5
+(lp749
+VStephen King
+p750
+aVTony Gilroy
+p751
+asg9
+VA big-city reporter travels to the small town where her mother has been arrested for the murder of an elderly woman that she works for as a maid.
+p752
+sg11
+(lp753
+VKathy Bates
+p754
+aVJennifer Jason Leigh
+p755
+aVChristopher Plummer
+p756
+asg16
+S'Dolores Claiborne'
+p757
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjE4NDIwNzgwN15BMl5BanBnXkFtZTcwNzk3MDAzMQ@@._V1_SY317_CR12,0,214,317_AL_.jpg
+p758
+sg20
+S'1994'
+p759
+sg22
+I44
+sg23
+(lp760
+VCrime
+p761
+aVDrama
+p762
+aVMystery
+p763
+assI45
+(dp764
+g2
+(lp765
+VMichael Lehmann
+p766
+asg5
+(lp767
+VAudrey Wells
+p768
+asg9
+VA successful veternarian & radio show host with low self-esteem asks her model friend to impersonate her when a handsome man wants to see her.
+p769
+sg11
+(lp770
+VUma Thurman
+p771
+aVJaneane Garofalo
+p772
+aVBen Chaplin
+p773
+asg16
+S'Truth About Cats & Dogs, The'
+p774
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTYxNjIyMjkxNl5BMl5BanBnXkFtZTYwMDAzOTg4._V1_SY317_CR3,0,214,317_AL_.jpg
+p775
+sg20
+S'1996'
+p776
+sg22
+I45
+sg23
+(lp777
+VComedy
+p778
+aVRomance
+p779
+assI46
+(dp780
+g2
+(lp781
+VAtom Egoyan
+p782
+asg5
+(lp783
+VAtom Egoyan
+p784
+asg9
+VThe 'Exotica' is a nightclub on the outskirts of Toronto, where Eric, DJ and MC, watches nightly as his ex-girlfriend Christina performs. Watches jealously, especially as far as the extra ...                See full summary »
+p785
+sg11
+(lp786
+VBruce Greenwood
+p787
+aVElias Koteas
+p788
+aVDon McKellar
+p789
+asg16
+S'Exotica'
+p790
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTU4OTMzMDczOV5BMl5BanBnXkFtZTYwODYyMTg4._V1_SY317_CR5,0,214,317_AL_.jpg
+p791
+sg20
+S'1994'
+p792
+sg22
+I46
+sg23
+(lp793
+VDrama
+p794
+aVMystery
+p795
+assI47
+(dp796
+g2
+(lp797
+VTim Burton
+p798
+asg5
+(lp799
+VRudolph Grey
+p800
+aVScott Alexander
+p801
+asg9
+VAn ambitious but troubled movie director tries his best to fulfill his dream, despite his lack of support.
+p802
+sg11
+(lp803
+VJohnny Depp
+p804
+aVMartin Landau
+p805
+aVSarah Jessica Parker
+p806
+asg16
+S'Ed Wood'
+p807
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjAzODM1MDMxN15BMl5BanBnXkFtZTgwOTgwNTc2MDE@._V1_SY317_CR0,0,214,317_AL_.jpg
+p808
+sg20
+S'1994'
+p809
+sg22
+I47
+sg23
+(lp810
+VBiography
+p811
+aVComedy
+p812
+aVDrama
+p813
+assI48
+(dp814
+g2
+(lp815
+VSteve James
+p816
+asg5
+(lp817
+VSteve James
+p818
+aVFrederick Marx
+p819
+asg9
+VA film following the lives of two inner-city Chicago boys who struggle to become college basketball players on the road to going professional.
+p820
+sg11
+(lp821
+VWilliam Gates
+p822
+aVArthur Agee
+p823
+aVEmma Gates
+p824
+asg16
+S'Hoop Dreams'
+p825
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTk4ODE0MjQzOF5BMl5BanBnXkFtZTcwNDUzNjgyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p826
+sg20
+S'1994'
+p827
+sg22
+I48
+sg23
+(lp828
+VDocumentary
+p829
+aVDrama
+p830
+aVSport
+p831
+assI49
+(dp832
+g2
+(lp833
+VFred Schepisi
+p834
+asg5
+(lp835
+VAndy Breckman
+p836
+aVAndy Breckman
+p837
+asg9
+VAlbert Einstein helps a young man who's in love with Einstein's niece to catch her attention by pretending temporarily to be a great physicist.
+p838
+sg11
+(lp839
+VTim Robbins
+p840
+aVMeg Ryan
+p841
+aVWalter Matthau
+p842
+asg16
+S'I.Q.'
+p843
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTIwMTc2ODg3NV5BMl5BanBnXkFtZTcwNjEyNTUxMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p844
+sg20
+S'1994'
+p845
+sg22
+I49
+sg23
+(lp846
+VComedy
+p847
+aVRomance
+p848
+assI50
+(dp849
+g2
+(lp850
+VGeorge Lucas
+p851
+asg5
+(lp852
+VGeorge Lucas
+p853
+asg9
+VLuke Skywalker joins forces with a Jedi Knight, a cocky pilot, a wookiee and two droids to save the universe from the Empire's world-destroying battle-station, while also attempting to rescue Princess Leia from the evil Darth Vader.
+p854
+sg11
+(lp855
+VMark Hamill
+p856
+aVHarrison Ford
+p857
+aVCarrie Fisher
+p858
+asg16
+S'Star Wars'
+p859
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTU4NTczODkwM15BMl5BanBnXkFtZTcwMzEyMTIyMw@@._V1_SX214_AL_.jpg
+p860
+sg20
+S'1977'
+p861
+sg22
+I50
+sg23
+(lp862
+VAction
+p863
+aVAdventure
+p864
+aVFantasy
+p865
+assI51
+(dp866
+g2
+(lp867
+VEdward Zwick
+p868
+asg5
+(lp869
+VSusan Shilliday
+p870
+aVWilliam D. Wittliff
+p871
+asg9
+VEpic tale of three brothers and their father living in the remote wilderness of 1900s USA and how their lives are affected by nature, history, war, and love.
+p872
+sg11
+(lp873
+VBrad Pitt
+p874
+aVAnthony Hopkins
+p875
+aVAidan Quinn
+p876
+asg16
+S'Legends of the Fall'
+p877
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTYwMjYxNTAyN15BMl5BanBnXkFtZTgwMTc3MjkyMTE@._V1_SX214_AL_.jpg
+p878
+sg20
+S'1994'
+p879
+sg22
+I51
+sg23
+(lp880
+VDrama
+p881
+aVRomance
+p882
+aVWar
+p883
+assI52
+(dp884
+g2
+(lp885
+VNicholas Hytner
+p886
+asg5
+(lp887
+VAlan Bennett
+p888
+aVAlan Bennett
+p889
+asg9
+VA meditation on power and the metaphor of the body of state, based on the real episode of dementia experienced by George III [now suspected a victim of porphyria, a blood disorder]. As he ...                See full summary »
+p890
+sg11
+(lp891
+VNigel Hawthorne
+p892
+aVHelen Mirren
+p893
+aVRupert Graves
+p894
+asg16
+S'Madness of King George, The'
+p895
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjExMzk0ODQyNV5BMl5BanBnXkFtZTcwODk0ODE1NA@@._V1_SX214_AL_.jpg
+p896
+sg20
+S'1994'
+p897
+sg22
+I52
+sg23
+(lp898
+VBiography
+p899
+aVComedy
+p900
+aVDrama
+p901
+assI53
+(dp902
+g2
+(lp903
+VOliver Stone
+p904
+asg5
+(lp905
+VQuentin Tarantino
+p906
+aVDavid Veloz
+p907
+asg9
+VTwo victims of traumatized childhoods become lovers and psychopathic serial murderers irresponsibly glorified by the mass media.
+p908
+sg11
+(lp909
+VWoody Harrelson
+p910
+aVJuliette Lewis
+p911
+aVTom Sizemore
+p912
+asg16
+S'Natural Born Killers'
+p913
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTI2NTU2Nzc0MV5BMl5BanBnXkFtZTcwMzY1OTM2MQ@@._V1_SY317_CR0,0,214,317_AL_.jpg
+p914
+sg20
+S'1994'
+p915
+sg22
+I53
+sg23
+(lp916
+VCrime
+p917
+aVDrama
+p918
+aVRomance
+p919
+assI54
+(dp920
+g2
+(lp921
+VWolfgang Petersen
+p922
+asg5
+(lp923
+VLaurence Dworet
+p924
+aVRobert Roy Pool
+p925
+asg9
+VExtreme measures are necessary to contain an epidemic of a deadly airborne virus. But how extreme, exactly?
+p926
+sg11
+(lp927
+VDustin Hoffman
+p928
+aVRene Russo
+p929
+aVMorgan Freeman
+p930
+asg16
+S'Outbreak'
+p931
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BOTMwNTMwMTk4NV5BMl5BanBnXkFtZTcwMTI0ODYxMQ@@._V1_SY317_CR11,0,214,317_AL_.jpg
+p932
+sg20
+S'1995'
+p933
+sg22
+I54
+sg23
+(lp934
+VAction
+p935
+aVDrama
+p936
+aVThriller
+p937
+assI55
+(dp938
+g2
+(lp939
+VLuc Besson
+p940
+asg5
+(lp941
+VLuc Besson
+p942
+asg9
+VMathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.
+p943
+sg11
+(lp944
+VJean Reno
+p945
+aVGary Oldman
+p946
+aVNatalie Portman
+p947
+asg16
+S'Professional, The'
+p948
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgzMzg4MDkwNF5BMl5BanBnXkFtZTcwODAwNDg3OA@@._V1_SY317_CR4,0,214,317_AL_.jpg
+p949
+sg20
+S'1994'
+p950
+sg22
+I55
+sg23
+(lp951
+VCrime
+p952
+aVDrama
+p953
+aVThriller
+p954
+assI56
+(dp955
+g2
+(lp956
+VQuentin Tarantino
+p957
+asg5
+(lp958
+VQuentin Tarantino
+p959
+aVRoger Avary
+p960
+asg9
+VThe lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.
+p961
+sg11
+(lp962
+VJohn Travolta
+p963
+aVUma Thurman
+p964
+aVSamuel L. Jackson
+p965
+asg16
+S'Pulp Fiction'
+p966
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjE0ODk2NjczOV5BMl5BanBnXkFtZTYwNDQ0NDg4._V1_SY317_CR4,0,214,317_AL_.jpg
+p967
+sg20
+S'1994'
+p968
+sg22
+I56
+sg23
+(lp969
+VCrime
+p970
+aVDrama
+p971
+assI57
+(dp972
+g2
+(lp973
+VAntonia Bird
+p974
+asg5
+(lp975
+VJimmy McGovern
+p976
+asg9
+VFather Greg Pilkington (Linus Roache) is torn between his call as a conservative Catholic priest and his secret life as a homosexual with a gay lover, frowned upon by the Church. Upon ...                See full summary »
+p977
+sg11
+(lp978
+VLinus Roache
+p979
+aVTom Wilkinson
+p980
+aVRobert Carlyle
+p981
+asg16
+S'Priest'
+p982
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BNjIwMDQ0ODUyNF5BMl5BanBnXkFtZTcwMjI2MDAyMQ@@._V1_SY317_CR3,0,214,317_AL_.jpg
+p983
+sg20
+S'1994'
+p984
+sg22
+I57
+sg23
+(lp985
+VDrama
+p986
+assI58
+(dp987
+g2
+(lp988
+VRobert Redford
+p989
+asg5
+(lp990
+VPaul Attanasio
+p991
+aVRichard N. Goodwin
+p992
+asg9
+VA young lawyer Jim Goodwin investigates a potentially fixed game show. Charlie Van Doren, a big time show winner is under Goodwin's investigation.
+p993
+sg11
+(lp994
+VRalph Fiennes
+p995
+aVJohn Turturro
+p996
+aVRob Morrow
+p997
+asg16
+S'Quiz Show'
+p998
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTc2NTU3MTY4Nl5BMl5BanBnXkFtZTcwNTc1NzkxMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg
+p999
+sg20
+S'1994'
+p1000
+sg22
+I58
+sg23
+(lp1001
+VDrama
+p1002
+aVHistory
+p1003
+assI59
+(dp1004
+g2
+(lp1005
+VKrzysztof Kieslowski
+p1006
+asg5
+(lp1007
+VKrzysztof Kieslowski
+p1008
+aVKrzysztof Piesiewicz
+p1009
+asg9
+VFinal entry in a trilogy of films dealing with contemporary French society concerns a model who discovers her neighbour is keen on invading people's privacy.
+p1010
+sg11
+(lp1011
+VIrène Jacob
+p1012
+aVJean-Louis Trintignant
+p1013
+aVFrédérique Feder
+p1014
+asg16
+S'Three Colors: Red'
+p1015
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTkyNDE0Njk0N15BMl5BanBnXkFtZTYwNTQ4Mzk5._V1_SY317_CR2,0,214,317_AL_.jpg
+p1016
+sg20
+S'1994'
+p1017
+sg22
+I59
+sg23
+(lp1018
+VDrama
+p1019
+aVMystery
+p1020
+aVRomance
+p1021
+assI60
+(dp1022
+g2
+(lp1023
+VKrzysztof Kieslowski
+p1024
+asg5
+(lp1025
+VKrzysztof Kieslowski
+p1026
+aVKrzysztof Piesiewicz
+p1027
+asg9
+VA woman struggles to find a way to live her life after the death of her husband and child.
+p1028
+sg11
+(lp1029
+VJuliette Binoche
+p1030
+aVZbigniew Zamachowski
+p1031
+aVJulie Delpy
+p1032
+asg16
+S'Three Colors: Blue'
+p1033
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjExNzQ5NTA1OV5BMl5BanBnXkFtZTcwMDkxMjcyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p1034
+sg20
+S'1993'
+p1035
+sg22
+I60
+sg23
+(lp1036
+VDrama
+p1037
+aVMusic
+p1038
+aVMystery
+p1039
+assI61
+(dp1040
+g2
+(lp1041
+VKrzysztof Kieslowski
+p1042
+asg5
+(lp1043
+VKrzysztof Kieslowski
+p1044
+aVKrzysztof Piesiewicz
+p1045
+asg9
+VSecond of a trilogy of films dealing with contemporary French society shows a Polish immigrant who wants to get even with his former wife.
+p1046
+sg11
+(lp1047
+VZbigniew Zamachowski
+p1048
+aVJulie Delpy
+p1049
+aVJanusz Gajos
+p1050
+asg16
+S'Three Colors: White'
+p1051
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BODUzNDcwNzY4Ml5BMl5BanBnXkFtZTYwODk4Mzk5._V1_SY317_CR3,0,214,317_AL_.jpg
+p1052
+sg20
+S'1994'
+p1053
+sg22
+I61
+sg23
+(lp1054
+VComedy
+p1055
+aVDrama
+p1056
+aVMystery
+p1057
+assI62
+(dp1058
+g2
+(lp1059
+VRoland Emmerich
+p1060
+asg5
+(lp1061
+VDean Devlin
+p1062
+aVRoland Emmerich
+p1063
+asg9
+VAn interstellar teleportation device, found in Egypt, leads to a planet with humans resembling ancient Egyptians who worship the god Ra.
+p1064
+sg11
+(lp1065
+VKurt Russell
+p1066
+aVJames Spader
+p1067
+aVJaye Davidson
+p1068
+asg16
+S'Stargate'
+p1069
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTk4ODQ1MTk5M15BMl5BanBnXkFtZTgwMjA2Mzk5MDE@._V1_SY317_CR0,0,214,317_AL_.jpg
+p1070
+sg20
+S'1994'
+p1071
+sg22
+I62
+sg23
+(lp1072
+VAction
+p1073
+aVAdventure
+p1074
+aVSci-Fi
+p1075
+assI63
+(dp1076
+g2
+(lp1077
+VJohn Pasquin
+p1078
+asg5
+(lp1079
+VLeo Benvenuti
+p1080
+aVSteve Rudnick
+p1081
+asg9
+VWhen a man inadvertantly kills Santa on Christmas Eve, he finds himself magically recruited to take his place.
+p1082
+sg11
+(lp1083
+VTim Allen
+p1084
+aVJudge Reinhold
+p1085
+aVWendy Crewson
+p1086
+asg16
+S'Santa Clause, The'
+p1087
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BNDY4MjgyNTk3Ml5BMl5BanBnXkFtZTcwMTg1NTUxMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p1088
+sg20
+S'1994'
+p1089
+sg22
+I63
+sg23
+(lp1090
+VComedy
+p1091
+aVDrama
+p1092
+aVFamily
+p1093
+assI64
+(dp1094
+g2
+(lp1095
+VFrank Darabont
+p1096
+asg5
+(lp1097
+VStephen King
+p1098
+aVFrank Darabont
+p1099
+asg9
+VTwo imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.
+p1100
+sg11
+(lp1101
+VTim Robbins
+p1102
+aVMorgan Freeman
+p1103
+aVBob Gunton
+p1104
+asg16
+S'Shawshank Redemption, The'
+p1105
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_SX214_AL_.jpg
+p1106
+sg20
+S'1994'
+p1107
+sg22
+I64
+sg23
+(lp1108
+VCrime
+p1109
+aVDrama
+p1110
+assI65
+(dp1111
+g2
+(lp1112
+VLasse Hallström
+p1113
+asg5
+(lp1114
+VPeter Hedges
+p1115
+aVPeter Hedges
+p1116
+asg9
+VGilbert has to care for his brother Arnie and his obese mother, which gets in the way when love walks into his life.
+p1117
+sg11
+(lp1118
+VJohnny Depp
+p1119
+aVLeonardo DiCaprio
+p1120
+aVJuliette Lewis
+p1121
+asg16
+S"What's Eating Gilbert Grape"
+p1122
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQ5NjY1MjE5MV5BMl5BanBnXkFtZTgwODU2NTYxMTE@._V1_SX214_AL_.jpg
+p1123
+sg20
+S'1993'
+p1124
+sg22
+I65
+sg23
+(lp1125
+VDrama
+p1126
+assI66
+(dp1127
+g2
+(lp1128
+VJon Turteltaub
+p1129
+asg5
+(lp1130
+VDaniel G. Sullivan
+p1131
+aVFredric LeBow
+p1132
+asg9
+VTicket collecting romantic pretends to be engaged to an unconscious man but can't fool his brother
+p1133
+sg11
+(lp1134
+VSandra Bullock
+p1135
+aVBill Pullman
+p1136
+aVPeter Gallagher
+p1137
+asg16
+S'While You Were Sleeping'
+p1138
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTU5NjU4NDUzMl5BMl5BanBnXkFtZTgwMjc4NDgzMTE@._V1_SY317_CR0,0,214,317_AL_.jpg
+p1139
+sg20
+S'1995'
+p1140
+sg22
+I66
+sg23
+(lp1141
+VComedy
+p1142
+aVDrama
+p1143
+aVRomance
+p1144
+assI67
+(dp1145
+g2
+(lp1146
+VTom Shadyac
+p1147
+asg5
+(lp1148
+VJack Bernstein
+p1149
+aVJack Bernstein
+p1150
+asg9
+VA goofy detective specializing in animals goes in search of a missing dolphin mascot of a football team.
+p1151
+sg11
+(lp1152
+VJim Carrey
+p1153
+aVCourteney Cox
+p1154
+aVSean Young
+p1155
+asg16
+S'Ace Ventura: Pet Detective'
+p1156
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjAzNTI0ODUxOF5BMl5BanBnXkFtZTgwNTQxNzQxMTE@._V1_SY317_CR0,0,214,317_AL_.jpg
+p1157
+sg20
+S'1994'
+p1158
+sg22
+I67
+sg23
+(lp1159
+VComedy
+p1160
+assI68
+(dp1161
+g2
+(lp1162
+VAlex Proyas
+p1163
+asg5
+(lp1164
+VJames O'Barr
+p1165
+aVDavid J. Schow
+p1166
+asg9
+VA man brutally murdered comes back to life as an undead avenger of his and his fiancée's murder.
+p1167
+sg11
+(lp1168
+VBrandon Lee
+p1169
+aVMichael Wincott
+p1170
+aVRochelle Davis
+p1171
+asg16
+S'Crow, The'
+p1172
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTUxMzA1ODI3NF5BMl5BanBnXkFtZTgwNTg3NjQxMTE@._V1_SY317_CR0,0,214,317_AL_.jpg
+p1173
+sg20
+S'1994'
+p1174
+sg22
+I68
+sg23
+(lp1175
+VAction
+p1176
+aVFantasy
+p1177
+assI69
+(dp1178
+g2
+(lp1179
+VRobert Zemeckis
+p1180
+asg5
+(lp1181
+VWinston Groom
+p1182
+aVEric Roth
+p1183
+asg9
+VForrest Gump, while not intelligent, has accidentally been present at many historic moments, but his true love, Jenny Curran, eludes him.
+p1184
+sg11
+(lp1185
+VTom Hanks
+p1186
+aVRobin Wright
+p1187
+aVGary Sinise
+p1188
+asg16
+S'Forrest Gump'
+p1189
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQwMTA5MzI1MF5BMl5BanBnXkFtZTcwMzY5Mzg3OA@@._V1_SX214_AL_.jpg
+p1190
+sg20
+S'1994'
+p1191
+sg22
+I69
+sg23
+(lp1192
+VDrama
+p1193
+aVRomance
+p1194
+assI70
+(dp1195
+g2
+(lp1196
+VMike Newell
+p1197
+asg5
+(lp1198
+VRichard Curtis
+p1199
+asg9
+VOver the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.
+p1200
+sg11
+(lp1201
+VHugh Grant
+p1202
+aVAndie MacDowell
+p1203
+aVJames Fleet
+p1204
+asg16
+S'Four Weddings and a Funeral'
+p1205
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@._V1_SX214_AL_.jpg
+p1206
+sg20
+S'1994'
+p1207
+sg22
+I70
+sg23
+(lp1208
+VComedy
+p1209
+aVDrama
+p1210
+aVRomance
+p1211
+assI71
+(dp1212
+g2
+(lp1213
+VRoger Allers
+p1214
+aVRob Minkoff
+p1215
+asg5
+(lp1216
+VIrene Mecchi
+p1217
+aVJonathan Roberts
+p1218
+asg9
+VTricked into thinking that he caused the death of his father, a lion cub flees and abandons his destiny as the future king.
+p1219
+sg11
+(lp1220
+VMatthew Broderick
+p1221
+aVJeremy Irons
+p1222
+aVJames Earl Jones
+p1223
+asg16
+S'Lion King, The'
+p1224
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjEyMzgwNTUzMl5BMl5BanBnXkFtZTcwNTMxMzM3Ng@@._V1_SY317_CR15,0,214,317_AL_.jpg
+p1225
+sg20
+S'1994'
+p1226
+sg22
+I71
+sg23
+(lp1227
+VAnimation
+p1228
+aVAdventure
+p1229
+aVDrama
+p1230
+assI72
+(dp1231
+g2
+(lp1232
+VChuck Russell
+p1233
+asg5
+(lp1234
+VMichael Fallon
+p1235
+aVMark Verheiden
+p1236
+asg9
+VBank clerk Stanley Ipkiss is transformed into a manic super-hero when he wears a mysterious mask.
+p1237
+sg11
+(lp1238
+VJim Carrey
+p1239
+aVCameron Diaz
+p1240
+aVPeter Riegert
+p1241
+asg16
+S'Mask, The'
+p1242
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjM3NDI5OTA5Nl5BMl5BanBnXkFtZTgwNzE4ODYxMTE@._V1_SX214_AL_.jpg
+p1243
+sg20
+S'1994'
+p1244
+sg22
+I72
+sg23
+(lp1245
+VComedy
+p1246
+aVCrime
+p1247
+aVFantasy
+p1248
+assI73
+(dp1249
+g2
+(lp1250
+VRichard Donner
+p1251
+asg5
+(lp1252
+VRoy Huggins
+p1253
+aVWilliam Goldman
+p1254
+asg9
+VBret Maverick, needing money for a poker tournament, faces various comic mishaps and challenges, including a charming woman thief.
+p1255
+sg11
+(lp1256
+VMel Gibson
+p1257
+aVJodie Foster
+p1258
+aVJames Garner
+p1259
+asg16
+S'Maverick'
+p1260
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTE5OTQzMzU3Nl5BMl5BanBnXkFtZTcwNTA3MTMyMQ@@._V1_SY317_CR10,0,214,317_AL_.jpg
+p1261
+sg20
+S'1994'
+p1262
+sg22
+I73
+sg23
+(lp1263
+VAction
+p1264
+aVAdventure
+p1265
+aVComedy
+p1266
+assI74
+(dp1267
+g2
+(lp1268
+VRuss Meyer
+p1269
+asg5
+(lp1270
+VJack Moran
+p1271
+aVRuss Meyer
+p1272
+asg9
+VThree strippers holding a young girl hostage come across a crippled old man living with his two sons in the desert. After learning he's hiding a sum of cash around, the strippers start scheming on him.
+p1273
+sg11
+(lp1274
+VTura Satana
+p1275
+aVHaji
+p1276
+aVLori Williams
+p1277
+asg16
+S'Faster Pussycat! Kill! Kill!'
+p1278
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgyMzI5NjA1OF5BMl5BanBnXkFtZTYwMjQyMjg5._V1_SX214_AL_.jpg
+p1279
+sg20
+S'1965'
+p1280
+sg22
+I74
+sg23
+(lp1281
+VAction
+p1282
+aVComedy
+p1283
+assI75
+(dp1284
+g2
+(lp1285
+VJefri Aalmuhammed
+p1286
+aVJack Baxter
+p1287
+asg5
+(lp1288
+VJefri Aalmuhammed
+p1289
+aVJack Baxter
+p1290
+asg9
+VBrother Minister reveals the mystery surrounding the assassination of Malcolm X at the Audubon Ballroom in New York City on February 21, 1965. It probes the innocence of two of the ...                See full summary »
+p1291
+sg11
+(lp1292
+VPeter Bailey
+p1293
+aVRoscoe Lee Browne
+p1294
+aVJohn Henrik Clarke
+p1295
+asg16
+S'Brother Minister: The Assassination of Malcolm X'
+p1296
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BNDA2MTYyNDE4NV5BMl5BanBnXkFtZTcwOTY5ODA3NA@@._V1_SY317_CR9,0,214,317_AL_.jpg
+p1297
+sg20
+S'1994'
+p1298
+sg22
+I75
+sg23
+(lp1299
+VDocumentary
+p1300
+assI76
+(dp1301
+g2
+(lp1302
+VBrian De Palma
+p1303
+asg5
+(lp1304
+VEdwin Torres
+p1305
+aVDavid Koepp
+p1306
+asg9
+VA Puerto Rican former convict, just released from prison, pledges to stay away from drugs and violence despite the pressure around him and lead on to a better life outside of N.Y.C.
+p1307
+sg11
+(lp1308
+VAl Pacino
+p1309
+aVSean Penn
+p1310
+aVPenelope Ann Miller
+p1311
+asg16
+S"Carlito's Way"
+p1312
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjA2NDA0NTQ1M15BMl5BanBnXkFtZTgwODA5MDgxMTE@._V1_SX214_AL_.jpg
+p1313
+sg20
+S'1993'
+p1314
+sg22
+I76
+sg23
+(lp1315
+VCrime
+p1316
+aVDrama
+p1317
+assI77
+(dp1318
+g2
+(lp1319
+VSydney Pollack
+p1320
+asg5
+(lp1321
+VJohn Grisham
+p1322
+aVDavid Rabe
+p1323
+asg9
+VA young lawyer joins a prestigious law firm only to discover that it has a sinister dark side.
+p1324
+sg11
+(lp1325
+VTom Cruise
+p1326
+aVJeanne Tripplehorn
+p1327
+aVGene Hackman
+p1328
+asg16
+S'Firm, The'
+p1329
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgxMjM5NDYwM15BMl5BanBnXkFtZTgwODkzMzk5MDE@._V1_SX214_AL_.jpg
+p1330
+sg20
+S'1993'
+p1331
+sg22
+I77
+sg23
+(lp1332
+VDrama
+p1333
+aVMystery
+p1334
+aVThriller
+p1335
+assI78
+(dp1336
+g2
+(lp1337
+VSimon Wincer
+p1338
+asg5
+(lp1339
+VKeith Walker
+p1340
+aVKeith Walker
+p1341
+asg9
+VWhen a boy learns that a beloved killer whale is to be killed by the aquarium owners, the boy risks everything to free the whale.
+p1342
+sg11
+(lp1343
+VJason James Richter
+p1344
+aVLori Petty
+p1345
+aVMichael Madsen
+p1346
+asg16
+S'Free Willy'
+p1347
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTIwNDc5MzAxNV5BMl5BanBnXkFtZTYwOTE2NDE5._V1_SY317_CR3,0,214,317_AL_.jpg
+p1348
+sg20
+S'1993'
+p1349
+sg22
+I78
+sg23
+(lp1350
+VAdventure
+p1351
+aVDrama
+p1352
+aVFamily
+p1353
+assI79
+(dp1354
+g2
+(lp1355
+VAndrew Davis
+p1356
+asg5
+(lp1357
+VJeb Stuart
+p1358
+aVDavid Twohy
+p1359
+asg9
+VDr. Richard Kimble, unjustly accused of murdering his wife, must find the real killer while being the target of a nationwide manhunt.
+p1360
+sg11
+(lp1361
+VHarrison Ford
+p1362
+aVTommy Lee Jones
+p1363
+aVSela Ward
+p1364
+asg16
+S'Fugitive, The'
+p1365
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTU2OTkxNDA2OV5BMl5BanBnXkFtZTgwMzg3MjkyMTE@._V1_SX214_AL_.jpg
+p1366
+sg20
+S'1993'
+p1367
+sg22
+I79
+sg23
+(lp1368
+VAction
+p1369
+aVAdventure
+p1370
+aVCrime
+p1371
+assI80
+(dp1372
+g2
+(lp1373
+VJim Abrahams
+p1374
+asg5
+(lp1375
+VJim Abrahams
+p1376
+aVPat Proft
+p1377
+asg9
+V"Rambo" parody in which Topper Harley leads a rescue team into Iraq to save Iraqi war prisoners and all of their previous rescue teams.
+p1378
+sg11
+(lp1379
+VCharlie Sheen
+p1380
+aVLloyd Bridges
+p1381
+aVValeria Golino
+p1382
+asg16
+S'Hot Shots! Part Deux'
+p1383
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQyMDM5MTUyNl5BMl5BanBnXkFtZTcwOTYzOTUyMQ@@._V1_SY317_CR4,0,214,317_AL_.jpg
+p1384
+sg20
+S'1993'
+p1385
+sg22
+I80
+sg23
+(lp1386
+VAction
+p1387
+aVComedy
+p1388
+assI81
+(dp1389
+g2
+(lp1390
+VJoel Coen
+p1391
+aVEthan Coen
+p1392
+asg5
+(lp1393
+VEthan Coen
+p1394
+aVJoel Coen
+p1395
+asg9
+VA naive business graduate is installed as president of a manufacturing company as part of a stock scam.
+p1396
+sg11
+(lp1397
+VTim Robbins
+p1398
+aVPaul Newman
+p1399
+aVJennifer Jason Leigh
+p1400
+asg16
+S'Hudsucker Proxy, The'
+p1401
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgzNjE1Mjk5MV5BMl5BanBnXkFtZTcwNDQwOTkyMQ@@._V1_SY317_CR2,0,214,317_AL_.jpg
+p1402
+sg20
+S'1994'
+p1403
+sg22
+I81
+sg23
+(lp1404
+VComedy
+p1405
+assI82
+(dp1406
+g2
+(lp1407
+VSteven Spielberg
+p1408
+asg5
+(lp1409
+VMichael Crichton
+p1410
+aVMichael Crichton
+p1411
+asg9
+VDuring a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.
+p1412
+sg11
+(lp1413
+VSam Neill
+p1414
+aVLaura Dern
+p1415
+aVJeff Goldblum
+p1416
+asg16
+S'Jurassic Park'
+p1417
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX214_AL_.jpg
+p1418
+sg20
+S'1993'
+p1419
+sg22
+I82
+sg23
+(lp1420
+VAdventure
+p1421
+aVSci-Fi
+p1422
+aVThriller
+p1423
+assI83
+(dp1424
+g2
+(lp1425
+VKenneth Branagh
+p1426
+asg5
+(lp1427
+VWilliam Shakespeare
+p1428
+aVKenneth Branagh
+p1429
+asg9
+VYoung lovers Hero and Claudio, soon to wed, conspire to get verbal sparring partners and confirmed singles Benedick and Beatrice to wed as well.
+p1430
+sg11
+(lp1431
+VKenneth Branagh
+p1432
+aVEmma Thompson
+p1433
+aVKeanu Reeves
+p1434
+asg16
+S'Much Ado About Nothing'
+p1435
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMzkwODM1OTY1Nl5BMl5BanBnXkFtZTcwOTcxMDQ1NA@@._V1_SX214_AL_.jpg
+p1436
+sg20
+S'1993'
+p1437
+sg22
+I83
+sg23
+(lp1438
+VComedy
+p1439
+aVDrama
+p1440
+aVRomance
+p1441
+assI84
+(dp1442
+g2
+(lp1443
+VStuart Orme
+p1444
+asg5
+(lp1445
+VRobert A. Heinlein
+p1446
+aVTed Elliott
+p1447
+asg9
+VThe Earth is invaded by alien "slugs" that ride on people's backs and control their minds.
+p1448
+sg11
+(lp1449
+VDonald Sutherland
+p1450
+aVEric Thal
+p1451
+aVJulie Warner
+p1452
+asg16
+S"Robert A. Heinlein's The Puppet Masters"
+p1453
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTc0ODg0OTg0NF5BMl5BanBnXkFtZTcwNzY4ODUyMQ@@._V1_SX214_AL_.jpg
+p1454
+sg20
+S'1994'
+p1455
+sg22
+I84
+sg23
+(lp1456
+VHorror
+p1457
+aVSci-Fi
+p1458
+aVThriller
+p1459
+assI85
+(dp1460
+g2
+(lp1461
+VTed Demme
+p1462
+asg5
+(lp1463
+VMarie Weiss
+p1464
+aVRichard LaGravenese
+p1465
+asg9
+VA cat burglar is forced to take a bickering, dysfunctional family hostage on Christmas Eve.
+p1466
+sg11
+(lp1467
+VDenis Leary
+p1468
+aVJudy Davis
+p1469
+aVKevin Spacey
+p1470
+asg16
+S'Ref, The'
+p1471
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgxNTgyMzk0NV5BMl5BanBnXkFtZTYwMjM5Mzg5._V1_SY317_CR4,0,214,317_AL_.jpg
+p1472
+sg20
+S'1994'
+p1473
+sg22
+I85
+sg23
+(lp1474
+VComedy
+p1475
+aVCrime
+p1476
+aVDrama
+p1477
+assI86
+(dp1478
+g2
+(lp1479
+VJames Ivory
+p1480
+asg5
+(lp1481
+VKazuo Ishiguro
+p1482
+aVRuth Prawer Jhabvala
+p1483
+asg9
+VA butler who sacrificed body and soul to service in the years post World War I realizes too late how misguided his loyalty has been.
+p1484
+sg11
+(lp1485
+VAnthony Hopkins
+p1486
+aVEmma Thompson
+p1487
+aVJohn Haycraft
+p1488
+asg16
+S'Remains of the Day, The'
+p1489
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTM2NzIwMTM5NV5BMl5BanBnXkFtZTcwNjQ2MTYyMQ@@._V1_SX214_AL_.jpg
+p1490
+sg20
+S'1993'
+p1491
+sg22
+I86
+sg23
+(lp1492
+VDrama
+p1493
+aVRomance
+p1494
+assI87
+(dp1495
+g2
+(lp1496
+VSteven Zaillian
+p1497
+asg5
+(lp1498
+VFred Waitzkin
+p1499
+aVSteven Zaillian
+p1500
+asg9
+VA prepubescent chess prodigy refuses to harden himself in order to become a champion like the famous but unlikable Bobby Fischer.
+p1501
+sg11
+(lp1502
+VJoe Mantegna
+p1503
+aVBen Kingsley
+p1504
+aVMax Pomeranc
+p1505
+asg16
+S'Searching for Bobby Fischer'
+p1506
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTI3NzY3ODg3N15BMl5BanBnXkFtZTcwNzU1NzcyMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p1507
+sg20
+S'1993'
+p1508
+sg22
+I87
+sg23
+(lp1509
+VBiography
+p1510
+aVDrama
+p1511
+assI88
+(dp1512
+g2
+(lp1513
+VNora Ephron
+p1514
+asg5
+(lp1515
+VJeff Arch
+p1516
+aVNora Ephron
+p1517
+asg9
+VA recently widowed man's son calls a radio talk-show in an attempt to find his father a partner.
+p1518
+sg11
+(lp1519
+VTom Hanks
+p1520
+aVMeg Ryan
+p1521
+aVRoss Malinger
+p1522
+asg16
+S'Sleepless in Seattle'
+p1523
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BNzc0MDkwNjI0NF5BMl5BanBnXkFtZTgwMTY1MjEyMDE@._V1_SY317_CR0,0,214,317_AL_.jpg
+p1524
+sg20
+S'1993'
+p1525
+sg22
+I88
+sg23
+(lp1526
+VComedy
+p1527
+aVDrama
+p1528
+aVRomance
+p1529
+assI89
+(dp1530
+g2
+(lp1531
+VRidley Scott
+p1532
+asg5
+(lp1533
+VHampton Fancher
+p1534
+aVDavid Webb Peoples
+p1535
+asg9
+VA blade runner must pursue and try to terminate four replicants who stole a ship in space and have returned to Earth to find their creator.
+p1536
+sg11
+(lp1537
+VHarrison Ford
+p1538
+aVRutger Hauer
+p1539
+aVSean Young
+p1540
+asg16
+S'Blade Runner'
+p1541
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTA4MDQxNTk2NDheQTJeQWpwZ15BbWU3MDE2NjIyODk@._V1_SX214_AL_.jpg
+p1542
+sg20
+S'1982'
+p1543
+sg22
+I89
+sg23
+(lp1544
+VSci-Fi
+p1545
+aVThriller
+p1546
+assI90
+(dp1547
+g2
+(lp1548
+VThomas Schlamme
+p1549
+asg5
+(lp1550
+VRobbie Fox
+p1551
+asg9
+VA San Francisco poet who fears commitment has a girlfriend who he suspects may not be who she appears.
+p1552
+sg11
+(lp1553
+VMike Myers
+p1554
+aVNancy Travis
+p1555
+aVAnthony LaPaglia
+p1556
+asg16
+S'So I Married an Axe Murderer'
+p1557
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTY3OTY0NzYzMV5BMl5BanBnXkFtZTcwMDc2MjYxMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p1558
+sg20
+S'1993'
+p1559
+sg22
+I90
+sg23
+(lp1560
+VComedy
+p1561
+aVCrime
+p1562
+aVRomance
+p1563
+assI91
+(dp1564
+g2
+(lp1565
+VHenry Selick
+p1566
+asg5
+(lp1567
+VTim Burton
+p1568
+aVMichael McDowell
+p1569
+asg9
+VJack Skellington, king of Halloween Town, discovers Christmas Town, but doesn't quite understand the concept.
+p1570
+sg11
+(lp1571
+VDanny Elfman
+p1572
+aVChris Sarandon
+p1573
+aVCatherine O'Hara
+p1574
+asg16
+S'Nightmare Before Christmas, The'
+p1575
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTc5MDY0MjkwNV5BMl5BanBnXkFtZTcwNTk2Njk3OA@@._V1_SY317_CR12,0,214,317_AL_.jpg
+p1576
+sg20
+S'1993'
+p1577
+sg22
+I91
+sg23
+(lp1578
+VAnimation
+p1579
+aVFamily
+p1580
+aVFantasy
+p1581
+assI92
+(dp1582
+g2
+(lp1583
+VTony Scott
+p1584
+asg5
+(lp1585
+VQuentin Tarantino
+p1586
+asg9
+VClarence marries hooker Alabama, steals cocaine from her pimp, and tries to sell it in Hollywood, while the owners of the coke try to reclaim it.
+p1587
+sg11
+(lp1588
+VChristian Slater
+p1589
+aVPatricia Arquette
+p1590
+aVDennis Hopper
+p1591
+asg16
+S'True Romance'
+p1592
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTMxMTM3MDIwM15BMl5BanBnXkFtZTcwMDYyOTUyMg@@._V1_SX214_AL_.jpg
+p1593
+sg20
+S'1993'
+p1594
+sg22
+I92
+sg23
+(lp1595
+VCrime
+p1596
+aVDrama
+p1597
+aVThriller
+p1598
+assI93
+(dp1599
+g2
+(lp1600
+VTodd Solondz
+p1601
+asg5
+(lp1602
+VTodd Solondz
+p1603
+asg9
+VInsightful look at an unattractive 7th grader as she struggles to cope with un-attentive parents, snobbish classmates, a smart older brother, an attractive younger sister, and her own insecurities.
+p1604
+sg11
+(lp1605
+VHeather Matarazzo
+p1606
+aVChristina Brucato
+p1607
+aVVictoria Davis
+p1608
+asg16
+S'Welcome to the Dollhouse'
+p1609
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTcxMzk5NzY4OV5BMl5BanBnXkFtZTcwNzcxNTgxMQ@@._V1_SY317_CR5,0,214,317_AL_.jpg
+p1610
+sg20
+S'1995'
+p1611
+sg22
+I93
+sg23
+(lp1612
+VComedy
+p1613
+aVDrama
+p1614
+assI94
+(dp1615
+g2
+(lp1616
+VChris Columbus
+p1617
+asg5
+(lp1618
+VJohn Hughes
+p1619
+asg9
+VAn 8-year old troublemaker must protect his home from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.
+p1620
+sg11
+(lp1621
+VMacaulay Culkin
+p1622
+aVJoe Pesci
+p1623
+aVDaniel Stern
+p1624
+asg16
+S'Home Alone'
+p1625
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTUzMzg4MTg2M15BMl5BanBnXkFtZTYwNDM4OTk4._V1_SY317_CR6,0,214,317_AL_.jpg
+p1626
+sg20
+S'1990'
+p1627
+sg22
+I94
+sg23
+(lp1628
+VComedy
+p1629
+aVFamily
+p1630
+assI95
+(dp1631
+g2
+(lp1632
+VRon Clements
+p1633
+aVJohn Musker
+p1634
+asg5
+(lp1635
+VRon Clements
+p1636
+aVJohn Musker
+p1637
+asg9
+VWhen a street urchin vies for the love of a beautiful princess, he uses a genie's magic power to make himself off as a prince in order to marry her.
+p1638
+sg11
+(lp1639
+VScott Weinger
+p1640
+aVRobin Williams
+p1641
+aVLinda Larkin
+p1642
+asg16
+S'Aladdin'
+p1643
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BNTI4ODQ1MzAzNV5BMl5BanBnXkFtZTgwMzU4NzMxMDE@._V1_SY317_CR12,0,214,317_AL_.jpg
+p1644
+sg20
+S'1992'
+p1645
+sg22
+I95
+sg23
+(lp1646
+VAnimation
+p1647
+aVAdventure
+p1648
+aVComedy
+p1649
+assI96
+(dp1650
+g2
+(lp1651
+VJames Cameron
+p1652
+asg5
+(lp1653
+VJames Cameron
+p1654
+aVWilliam Wisher Jr.
+p1655
+asg9
+VA cyborg, identical to the one who failed to kill Sarah Connor, must now protect her young son, John Connor, from a more advanced cyborg, made out of liquid metal.
+p1656
+sg11
+(lp1657
+VArnold Schwarzenegger
+p1658
+aVLinda Hamilton
+p1659
+aVEdward Furlong
+p1660
+asg16
+S'Terminator 2: Judgment Day'
+p1661
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTg5NzUwMDU5NF5BMl5BanBnXkFtZTcwMjk2MDA4Mg@@._V1_SY317_CR18,0,214,317_AL_.jpg
+p1662
+sg20
+S'1991'
+p1663
+sg22
+I96
+sg23
+(lp1664
+VAction
+p1665
+aVSci-Fi
+p1666
+assI97
+(dp1667
+g2
+(lp1668
+VKevin Costner
+p1669
+asg5
+(lp1670
+VMichael Blake
+p1671
+aVMichael Blake
+p1672
+asg9
+VLt. John Dunbar, exiled to a remote western Civil War outpost, befriends wolves and Indians, making him an intolerable aberration in the military.
+p1673
+sg11
+(lp1674
+VKevin Costner
+p1675
+aVMary McDonnell
+p1676
+aVGraham Greene
+p1677
+asg16
+S'Dances with Wolves'
+p1678
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTY3OTI5NDczN15BMl5BanBnXkFtZTcwNDA0NDY3Mw@@._V1_SX214_AL_.jpg
+p1679
+sg20
+S'1990'
+p1680
+sg22
+I97
+sg23
+(lp1681
+VAdventure
+p1682
+aVDrama
+p1683
+aVWestern
+p1684
+assI98
+(dp1685
+g2
+(lp1686
+VJonathan Demme
+p1687
+asg5
+(lp1688
+VThomas Harris
+p1689
+aVTed Tally
+p1690
+asg9
+VA young F.B.I. cadet must confide in an incarcerated and manipulative killer to receive his help on catching another serial killer who skins his victims.
+p1691
+sg11
+(lp1692
+VJodie Foster
+p1693
+aVAnthony Hopkins
+p1694
+aVLawrence A. Bonney
+p1695
+asg16
+S'Silence of the Lambs, The'
+p1696
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQ2NzkzMDI4OF5BMl5BanBnXkFtZTcwMDA0NzE1NA@@._V1_SX214_AL_.jpg
+p1697
+sg20
+S'1991'
+p1698
+sg22
+I98
+sg23
+(lp1699
+VThriller
+p1700
+assI99
+(dp1701
+g2
+(lp1702
+VWilliam Cottrell
+p1703
+aVDavid Hand
+p1704
+asg5
+(lp1705
+VJacob Grimm
+p1706
+aVWilhelm Grimm
+p1707
+asg9
+VSnow White, pursued by a jealous queen, hides with the Dwarfs; the queen feeds her a poison apple, but the handsome prince awakens her with a kiss.
+p1708
+sg11
+(lp1709
+VAdriana Caselotti
+p1710
+aVHarry Stockwell
+p1711
+aVLucille La Verne
+p1712
+asg16
+S'Snow White and the Seven Dwarfs'
+p1713
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTQwMzE2Mzc4M15BMl5BanBnXkFtZTcwMTE4NTc1Nw@@._V1_SX214_AL_.jpg
+p1714
+sg20
+S'1937'
+p1715
+sg22
+I99
+sg23
+(lp1716
+VAnimation
+p1717
+aVFamily
+p1718
+aVFantasy
+p1719
+assI100
+(dp1720
+g2
+(lp1721
+VJoel Coen
+p1722
+aVEthan Coen
+p1723
+asg5
+(lp1724
+VEthan Coen
+p1725
+aVJoel Coen
+p1726
+asg9
+VJerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.
+p1727
+sg11
+(lp1728
+VWilliam H. Macy
+p1729
+aVFrances McDormand
+p1730
+aVSteve Buscemi
+p1731
+asg16
+S'Fargo'
+p1732
+sg18
+Vhttp://ia.media-imdb.com/images/M/MV5BMTgxNzY3MzUxOV5BMl5BanBnXkFtZTcwMDA0NjMyNA@@._V1_SX214_AL_.jpg
+p1733
+sg20
+S'1996'
+p1734
+sg22
+I100
+sg23
+(lp1735
+VCrime
+p1736
+aVDrama
+p1737
+aVThriller
+p1738
+ass.

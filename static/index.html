@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IMDb Recommender System</title>
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/index.css">
+	<!-- <link rel="icon" type="image/png" href="/img/favicon.png"> -->
+</head>
+<body>
+	<div class="container">
+		<h1>IMDb Recommender System</h1>
+		<form action="/feeds" method="POSt">
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Action">Action</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Adventure">Adventure</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Animation">Animation</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Childrens">Childrens</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Comedy">Comedy</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Crime">Crime</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Documentary">Documentary</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Drama">Drama</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Fantasy">Fantasy</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="FilmNoir">FilmNoir</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Horror">Horror</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Musical">Musical</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Mystery">Mystery</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Romance">Romance</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Scifi">Scifi</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Thriller">Thriller</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="War">War</label>
+			<label class="checkbox-inline"><input type="checkbox" name="genre" value="Western">Western</label>
+			<div class="form-inline">
+				<div class="form-group">
+					<input type="text" class="form-control" required placeholder="Enter your username..." name="name" value="Bottlepy"/>
+				</div>
+				<div class="form-group">
+					<input type="submit" class="form-control" />
+				</div>
+			</div>
+		</form>
+	</div>
+	<script type="text/javascript" src="/js/jquery.js"></script>
+	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+</body>
+</html>

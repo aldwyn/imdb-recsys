@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>IMDb Recommender System</title>
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap-theme.min.css">
+	<link rel="stylesheet" type="text/css" href="/css/index.css">
+	<!-- <link rel="icon" type="image/png" href="/img/favicon.png"> -->
+</head>
+<body>
+	<div class="container">
+		<h1>IMDb Recommender System</h1>
+		<h3>Welcome, {{ curr_user[1] }}!</h3>
+		<a href="/recommendations/{{ curr_user[0] }}"></a>
+		%for movie in movielist:
+			<article class="row">
+				<section class="col-md-2">
+					<div class="thumbnail">
+						<a href="{{ movie[3] }}">
+							<img src="/img/{{ movie[0] }}.png">
+						</a>
+					</div>
+				</section>
+				<section class="col-md-10">
+					<h4>{{ movie[1] }} ({{ movie[4] }})</h4>
+					<blockquote><em>{{ movie[2] }}</em></blockquote>
+				</section>
+				<a class="btn btn-warning" href="">Rate this!</a>
+			</article>
+		%end
+	</div>
+	<script type="text/javascript" src="/js/jquery.js"></script>
+	<script type="text/javascript" src="/js/bootstrap.min.js"></script>
+</body>
+</html>
