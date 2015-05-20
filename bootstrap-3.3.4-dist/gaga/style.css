@@ -1,0 +1,24 @@
+body {
+	width: 960px;
+	padding-left: 150px;
+	position: center
+
+}
+.wrapper {
+	min-height: 100%;
+}
+header {
+	width: 100%;
+	height: 120px;
+	background: #333;
+}
+.sbar {
+	position:relative;
+	left:230px;
+	top:10px;
+	/*background: yellow;*/
+}
+.sbar .sbar-button {
+	width:100px;
+	height: 38px;
+}

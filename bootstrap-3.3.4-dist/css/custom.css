@@ -1,0 +1,46 @@
+body {
+	
+	width:960px;
+	padding-left: 150px;
+
+}
+
+.head {
+	background: #333;
+	width: 960px;
+	padding-left: 150px;
+	height:170px;
+}
+.navbar {
+	height: 130px;
+	height: 150px;
+}
+.sbar {
+	position:absolute;
+	left:260px;
+	padding-top:17px;
+}
+
+.container {
+	width: 960px;
+	height: 960px;
+	padding:0px;
+}
+
+.container .item {
+	background: red;
+	position: absolute;
+	width: 960px;
+	height: 250px;
+	padding-left:950px;
+}
+.img_icon {
+	height:270px;
+	width:200px;
+
+}
+.side {
+	position: absolute;
+	right: 10px;
+	top:110px;
+}
