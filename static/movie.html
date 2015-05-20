@@ -25,30 +25,75 @@
 						<h3>{{ movie['title'] }}</h3>
 					</div>
 					<div class="details">
-						<div id="genre"><b>Genre/s:</b>{{ ', '.join(movie['genres']) }}</div>					
-						<div id="description"><br><b>Description: </b>{{ movie['description'] }}</div>
-						<div id="director"><br><b>Directors:</b>{{ ', '.join(movie['directors']) }}</div>
-						<div id="writer"><br><b>Writers:</b>{{ ', '.join(movie['writers']) }}</div>
-						<div id="stars"><br><b>Stars:</b>{{ ', '.join(movie['actors']) }}</div><br>
+						<div id="genre"><strong>Genre/s:</strong>
+							<p>{{ ', '.join(movie['genres']) }}</p>
+						</div>					
+						<div id="description"><strong>Description: </strong>
+							<p><em>{{ movie['description'] }}</em></p>
+						</div>
+						<div id="director"><strong>Directors:</strong>
+							<p>{{ ', '.join(movie['directors']) }}</p>
+						</div>
+						<div id="writer"><strong>Writers:</strong>
+							<p>{{ ', '.join(movie['writers']) }}</p>
+						</div>
+						<div id="stars"><strong>Stars:</strong>
+							<p>{{ ', '.join(movie['actors']) }}</p>
+						</div>
 					</div>
-					<div class="pull-right">
-					%if not session_user:
+					<div class="">
+					%if session_user:
+						<div class="alert alert-warning" role="alert">
 						%if not movie['rating']:
-							<form action="/rate/{{ movie['mid'] }}">
-								<div class="radio">
-									<div class="col-md-1"><input type="radio" name="rating" id="rating" value="1">1</div>
-									<div class="col-md-1"><input type="radio" name="rating" id="rating" value="2">2</div>
-									<div class="col-md-1"><input type="radio" name="rating" id="rating" value="3">3</div>
-									<div class="col-md-1"><input type="radio" name="rating" id="rating" value="4">4</div>
-									<div class="col-md-1"><input type="radio" name="rating" id="rating" value="5">5</div>
+							<form action="/rate/{{ session_user[0] }}/{{ movie['mid'] }}">
+								<div class="col-md-2">
+									<div class="form-group">
+										<label>
+											<input type="radio" name="rating" id="rating" value="1">
+											<strong>1</strong>
+										</label>
+									</div>
 								</div>
-								<div class="col-md-1">
+								<div class="col-md-2">
+									<div class="form-group">
+										<label>
+											<input type="radio" name="rating" id="rating" value="2">
+											<strong>2</strong>
+										</label>
+									</div>
+								</div>
+								<div class="col-md-2">
+									<div class="form-group">
+										<label>
+											<input type="radio" name="rating" id="rating" value="3">
+											<strong>3</strong>
+										</label>
+									</div>
+								</div>
+								<div class="col-md-2">
+									<div class="form-group">
+										<label>
+											<input type="radio" name="rating" id="rating" value="4">
+											<strong>4</strong>
+										</label>
+									</div>
+								</div>
+								<div class="col-md-2">
+									<div class="form-group">
+										<label>
+											<input type="radio" name="rating" id="rating" value="5">
+											<strong>5</strong>
+										</label>
+									</div>
+								</div>
+								<div class="col-md-2">
 									<button type="submit" class="btn btn-warning">Rate this</button>
 								</div>
 							</form>
 						%else:
-							<h5>You already rated this movie as <strong>{{ movie['rating'][2] }}</strong>.</h5>
+							<strong>You already rated this movie as <span class="badge">{{ movie['rating'][2] }}</span>.</strong>
 						%end
+						</div>
 					%end
 					</div>
 				</div>
@@ -72,7 +117,7 @@
 			</div>
 		</div>
 
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
-		<script src="js/bootstrap.min.js"></script>
+		<script src="/js/jquery.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
 	</body>
 </html>

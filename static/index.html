@@ -12,8 +12,12 @@
 	<body>
 		<div class="container">
 			%include('static/templates/header.html', session_user=session_user)
-			<h1>Top Recommendations:</h1>
-			%include('static/templates/container.html', movielist=movielist)
+			<div class="row">
+				<h1>Top Recommendations:</h1>
+			</div>
+			<div class="row">
+				%include('static/templates/container.html', movielist=movielist)
+			</div>
 		</div>
 
 		<script src="/js/jquery.js"></script>

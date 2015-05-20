@@ -9,9 +9,15 @@
 				</button>
 			</form>
 		</div>
-		<a href="/">
-			<img src="/img/gg.gif" style="width:200px;height:120px;position:absolute;left:50px;top:8px">
-		</a>
+		%if session_user:
+			<a href="/feeds">
+				<img src="/img/gg.gif" style="width:200px;height:120px;position:absolute;left:50px;top:8px">
+			</a>
+		%else:
+			<a href="/">
+				<img src="/img/gg.gif" style="width:200px;height:120px;position:absolute;left:50px;top:8px">
+			</a>
+		%end
 		<div class='side'>
 		%if not session_user:
 			<a href="#" data-toggle="modal" data-target="#myModal"> Log in </a> | 
@@ -24,22 +30,24 @@
 </header>
 
 <div class="row">
-	<a href="/genre/Action">Action</a>|
-	<a href="/genre/Adventure">Adventure</a>|
-	<a href="/genre/Animation">Animation</a>|
-	<a href="/genre/Childrens">Childrens</a>|
-	<a href="/genre/Comedy">Comedy</a>|
-	<a href="/genre/Crime">Crime</a>|
-	<a href="/genre/Documentary">Documentary</a>|
-	<a href="/genre/Drama">Drama</a>|
-	<a href="/genre/Fantasy">Fantasy</a>|
-	<a href="/genre/Horror">Horror</a>|
-	<a href="/genre/Musical">Musical</a>|
-	<a href="/genre/Mystery">Mystery</a>|
-	<a href="/genre/Romance">Romance</a>|
-	<a href="/genre/SciFi">SciFi</a>|
-	<a href="/genre/Thriller">Thriller</a>|
-	<a href="/genre/War">War</a>
+	<ul>
+		<li class="label"><a href="/genre/Action">Action</a></li>
+		<li class="label"><a href="/genre/Adventure">Adventure</a></li>
+		<li class="label"><a href="/genre/Animation">Animation</a></li>
+		<li class="label"><a href="/genre/Childrens">Childrens</a></li>
+		<li class="label"><a href="/genre/Comedy">Comedy</a></li>
+		<li class="label"><a href="/genre/Crime">Crime</a></li>
+		<li class="label"><a href="/genre/Documentary">Documentary</a></li>
+		<li class="label"><a href="/genre/Drama">Drama</a></li>
+		<li class="label"><a href="/genre/Fantasy">Fantasy</a></li>
+		<li class="label"><a href="/genre/Horror">Horror</a></li>
+		<li class="label"><a href="/genre/Musical">Musical</a></li>
+		<li class="label"><a href="/genre/Mystery">Mystery</a></li>
+		<li class="label"><a href="/genre/Romance">Romance</a></li>
+		<li class="label"><a href="/genre/SciFi">SciFi</a></li>
+		<li class="label"><a href="/genre/Thriller">Thriller</a></li>
+		<li class="label"><a href="/genre/War">War</a></li>
+	</ul>
 </div>
 
 <!-- Modal for Login -->
@@ -49,11 +57,10 @@
 			<div class="modal-header">
 				<h4 class="modal-title" id="myModalLabel">Login</h4>
 			</div>
-			<form class="form-inline" action="/login">
+			<form action="/login">
 				<div class="modal-body">
 					<div class="form-group">
-						<label class="sr-only" for="exampleInputEmail3">Login</label>
-						<input type="text" class="form-control" id="exampleInputEmail3" name="username" placeholder="Username">
+						<input type="text" class="form-control" name="username" placeholder="Username">
 					</div>
 				</div>
 				<div class="modal-footer">
@@ -73,15 +80,14 @@
 				<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 				<h4 class="modal-title" id="myModalLabel">Create an account</h4>
 			</div>
-			<form class="form-inline" action="/signup">
+			<form action="/signup">
 				<div class="modal-body">
 					<div class="form-group">
 					<h4>Enter Username:</h4>
-						<label class="sr-only" for="exampleInputEmail3">Username</label>
-						<input type="text" class="form-control" id="exampleInputEmail3" name="username" placeholder="Username">
+						<input type="text" class="form-control" name="username" placeholder="Username">
 					</div>
 					<h4>Choose Genres:</h4>
-					<table>
+					<table table="table">
 						<tr>
 							<td>
 								<label class="checkbox-inline">
