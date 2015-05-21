@@ -43,48 +43,38 @@
 					</div>
 					<div class="">
 					%if session_user:
-						<div class="alert alert-warning" role="alert">
+						<div>
 						%if not movie['rating']:
 							<form action="/rate/{{ session_user[0] }}/{{ movie['mid'] }}">
 								<div class="col-md-2">
-									<div class="form-group">
-										<label>
-											<input type="radio" name="rating" id="rating" value="1">
-											<strong>1</strong>
-										</label>
-									</div>
+									<label>
+										<input type="radio" name="rating" id="rating" value="1">
+										<strong>1</strong>
+									</label>
 								</div>
 								<div class="col-md-2">
-									<div class="form-group">
-										<label>
-											<input type="radio" name="rating" id="rating" value="2">
-											<strong>2</strong>
-										</label>
-									</div>
+									<label>
+										<input type="radio" name="rating" id="rating" value="2">
+										<strong>2</strong>
+									</label>
 								</div>
 								<div class="col-md-2">
-									<div class="form-group">
-										<label>
-											<input type="radio" name="rating" id="rating" value="3">
-											<strong>3</strong>
-										</label>
-									</div>
+									<label>
+										<input type="radio" name="rating" id="rating" value="3">
+										<strong>3</strong>
+									</label>
 								</div>
 								<div class="col-md-2">
-									<div class="form-group">
-										<label>
-											<input type="radio" name="rating" id="rating" value="4">
-											<strong>4</strong>
-										</label>
-									</div>
+									<label>
+										<input type="radio" name="rating" id="rating" value="4">
+										<strong>4</strong>
+									</label>
 								</div>
 								<div class="col-md-2">
-									<div class="form-group">
-										<label>
-											<input type="radio" name="rating" id="rating" value="5">
-											<strong>5</strong>
-										</label>
-									</div>
+									<label>
+										<input type="radio" name="rating" id="rating" value="5">
+										<strong>5</strong>
+									</label>
 								</div>
 								<div class="col-md-2">
 									<button type="submit" class="btn btn-warning">Rate this</button>
@@ -99,11 +89,11 @@
 				</div>
 			</div>
 			<div class="row">
-				<div class='similarites'>
-					<h2> Similar movies </h2>
-					<div class='container_s'>
-						%for similar_movie in movie['similar_movies'][:6]:
-							<div class="col-sm-2">
+				<h2>Similar movies</h2>
+				<div>
+					%for similar_movie in movie['similar_movies'][:6]:
+						<div class="col-sm-2">
+							<div class="thumbnail">
 								<a href='/movie/{{ similar_movie[0] }}'>
 									<img class='img_icon_s' src="/img/{{ similar_movie[0] }}.png" />
 								</a>
@@ -111,8 +101,8 @@
 									<h5>{{ similar_movie[1] }} <small>({{ similar_movie[4] }})</small></h5>
 								</div>
 							</div>
-						%end
-					</div>
+						</div>
+					%end
 				</div>
 			</div>
 		</div>

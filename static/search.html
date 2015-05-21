@@ -12,7 +12,7 @@
 	<body>
 		<div class="container">
 			%include('static/templates/header.html', session_user=session_user)
-			<h1>Search Results: <em>{{ keyword }}</em></h1>
+			<h3>Search Results: <em>{{ keyword }}</em></h3>
 			%include('static/templates/container.html', movielist=movielist, session_user=session_user)			
 		</div>
 
